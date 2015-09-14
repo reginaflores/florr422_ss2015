@@ -21,11 +21,12 @@ _____________________________________________
 
 ###Week 1: Uniform Shaders
 
-
-
-
+Experiments in the very basics and some [Uniform Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/03/) examples.  
 
 
 _____________________________________________
 
 ###Week 2: Shaping Functions
+
+Beginning to work with mathematical functions and understand [Algorithmic Drawing](http://patriciogonzalezvivo.com/2015/thebookofshaders/05/).
+_____________________________________________
