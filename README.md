@@ -36,3 +36,13 @@ Working more in depth with [Color](http://patriciogonzalezvivo.com/2015/thebooko
 
 
 _____________________________________________
+###Week 4: Shapes
+
+Learning about [Shapes](http://patriciogonzalezvivo.com/2015/thebookofshaders/07/).
+_____________________________________________
+
+
+
+
+
+

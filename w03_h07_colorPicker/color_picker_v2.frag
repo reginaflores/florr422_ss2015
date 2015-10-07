@@ -46,8 +46,13 @@ void main(){
     
     float radius = length(toCenter)*2.0;
     
-    float normAngle = angle/(2.*PI);
-    normAngle = normAngle*0.8;
+    float normAngle = (angle/PI)/2.+0.5;
+    // normAngle = normAngle;
+    // if (normAngle < 0.5){
+    //     normAngle*=0.5;
+    // } else {
+    //     normAngle*=1.;
+    // }
     // Map the angle (-PI to PI) to the Hue (from 0 to 1)
     // and the Saturation to the radius
     // vec3 color = hsb2rgb(vec3(((angle + u_time)/TWO_PI)+0.5,radius,(sin(u_time)+1.0)*0.5));
@@ -55,3 +60,4 @@ void main(){
 
     gl_FragColor = vec4(color,1.0);
 }
+
