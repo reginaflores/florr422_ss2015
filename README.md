@@ -41,6 +41,10 @@ _____________________________________________
 Learning about [Shapes](http://patriciogonzalezvivo.com/2015/thebookofshaders/07/).
 _____________________________________________
 
+###Week 5: 2D Matricies
+
+Entering the [Matrix](http://patriciogonzalezvivo.com/2015/thebookofshaders/08/).
+_____________________________________________
 
 
 
