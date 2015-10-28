@@ -1,0 +1,46 @@
+#ifdef GL_ES
+precision mediump float;
+#endif
+
+uniform vec2 u_resolution;
+uniform float u_time;
+
+float circleFun(vec2 st){
+    float pct = 0.0;
+    // a. The DISTANCE from the pixel to the center
+    pct = 2.*distance(st,vec2(0.5));
+    pct = 2.0*pct;
+    pct = smoothstep(0.9, 1.0, pct);
+
+    return pct;
+}
+
+void main() {
+	vec2 st = gl_FragCoord.xy/u_resolution;
+    vec3 color = vec3(0.);
+
+    st *= 30.0;      // Scale up the space by 10
+
+    vec2 st_i = floor(st);
+
+    if(mod(st_i.y,2.) == 1.){
+
+        st.x-= .5;
+    }
+    // if(mod(st_i.x,2.) == 1.){
+
+    //     st.y-= .5*sin(u_time);
+    // }
+
+    vec2 st_f = fract(st);
+
+    // color.rg = st_f;
+
+    float pct = circleFun(st_f);
+    color += pct;
+    color += sin(st.x*cos(u_time/30.0))+2.*cos(st.y * cos(u_time));
+
+	gl_FragColor = vec4(color,1.0);
+}
+
+

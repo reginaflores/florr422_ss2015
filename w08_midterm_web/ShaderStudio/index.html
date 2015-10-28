@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<!-- Always force latest IE rendering engine & Chrome Frame -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Shader Studio</title>
+
+	<!-- JS Libraries -->
+	<script src="http://threejs.org/build/three.min.js"></script>
+	<script type="text/javascript" src="https://rawgit.com/patriciogonzalezvivo/glslCanvas/master/build/GlslCanvas.min.js"></script>
+
+	<!-- Fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'><link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+
+	<!-- Responsive and mobile friendly stuff -->
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="css/html5reset.css" media="all">
+	<link rel="stylesheet" href="css/col.css" media="all">
+	<link rel="stylesheet" href="css/3cols.css" media="all">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+
+<body>
+<!-- 	<div id="top">
+		<a href="http://faceproject.nyc/" target="_blank">
+		<canvas id="canvas" data-fragment-url="shaders/moon.frag" data-textures="images/dome.jpg" width="500" height="500"></canvas>
+		</a>
+	</div> -->
+
+	<div class="header">
+		<h1>Shader Studio</h1>
+		<!-- <h2>Pattern Library by Regina Flores Mir</h2> -->
+		<br>
+		<h2>Geometry. Scale. Repetition.</h3>
+		<br>
+		<br>
+		<br>
+		<h3>Dedicated to the luminaries in design and science of the 1960's such as <a href="https://bfi.org/design-science/primer" target="_blank">Buckminster Fuller<a>,</h3> 
+		<h3>
+		<a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-bio.html" target="_blank">Richard Feynman,</a>
+		<a href="http://www.eamesoffice.com/the-work/powers-of-ten/" target="_blank">Charles and Ray Eames</a> and <a href="https://arcosanti.org/arcology" target="_blank">Paolo Soleri</a>. Created by <a href="http://www.reginafloresmir.com/" target="_blank">Regina Flores Mir</a>.</h3>	
+	</div>
+		<div class="section group">
+		<!-- <h3>Two Columns</h3> -->
+		</div>
+
+		<div class="section group">
+			<div class="col span_1_of_3">
+			<canvas id="canvas-left" data-fragment-url="shaders/lines_lines.frag" width="300" height="300"></canvas>
+			<p>Doppler</p>	
+			</div>
+			
+			<div class="col span_1_of_3">
+			<canvas id="canvas" data-fragment-url="shaders/slits.frag" width="300" height="300"></canvas>	
+			<p>Double Slit</p>
+			</div>
+
+			<div class="col span_1_of_3">
+			<canvas id="canvas-right" data-fragment-url="shaders/square.frag" width="300" height="300"></canvas>
+			<p>19x19 Go</p>
+			</div>
+		</div>
+
+
+		<div class="section group">
+			
+			<div class="col span_1_of_3">
+			<canvas id="canvas-right" data-fragment-url="shaders/squares_fractal.frag" width="300" height="300"></canvas>	
+			<p>Noise</p>	
+			</div>
+
+			<div class="col span_1_of_3">
+			<canvas id="canvas" data-fragment-url="shaders/physics_circles.frag" width="300" height="300"></canvas>	
+			<p>Red Shift</p>
+
+			</div>
+	
+			<div class="col span_1_of_3">
+			<canvas id="canvas" data-fragment-url="shaders/triangle_wall_shadow.frag" width="300" height="300"></canvas>	
+			<p>Blue Shift</p>
+			</div>
+		</div>
+
+		<div class="section group">
+			<div class="col span_1_of_3">
+			<canvas id="canvas" data-fragment-url="shaders/inigo_pattern.frag" width="300" height="300"></canvas>	
+			<p>Impulse</p>
+			</div>
+
+			<div class="col span_1_of_3">
+			<canvas id="canvas" data-fragment-url="shaders/diamond_circles.frag" width="300" height="300"></canvas>	
+			<p>Springs</p>
+			</div>
+
+			<div class="col span_1_of_3">
+			<canvas id="canvas" data-fragment-url="shaders/golan_elliptical_pattern.frag" width="300" height="300"></canvas>	
+			<p>Curves</p>
+			</div>
+		</div>
+
+		<div class="section group">
+			<div class="col span_1_of_3">
+			<canvas id="canvas" data-fragment-url="shaders/triangle_wall.frag" width="300" height="300"></canvas>	
+			<p>Grid</p>	
+			
+			</div>
+
+			<div class="col span_1_of_3">
+			<canvas id="canvas" data-fragment-url="shaders/twist.frag" width="300" height="300"></canvas>	
+			<p>Rotate</p>
+			</div>
+
+			<div class="col span_1_of_3">
+			<canvas id="canvas" data-fragment-url="shaders/pacman.frag" width="300" height="300"></canvas>	
+			<p>Repeat</p>	
+			</div>
+		</div>
+
+		<!-- <div class="section group">
+		<p>Link to OpenFrameworks Shader Mesh <a href="https://github.com/edap/ofSite/blob/51f6e34515f8bfea35df1a45aaa6e9b2ee3ad307/setup/emscripten/index.html.mako" target="_blank">here</a>.</p>
+		<br>
+		<p>For more information on brining OF to the web, please visit <a href="https://github.com/edap/ofSite/blob/51f6e34515f8bfea35df1a45aaa6e9b2ee3ad307/setup/emscripten/index.html.mako" target="_blank">here</a> and <a href="http://www.reginafloresmir.com/blog/2015/5/14/openframeworks-on-the-line" target="_blank">here.</a>
+		</p>
+		</div> -->
+						
+	<script src="js/load_canvas.js"></script>
+
+</body>
+</html>

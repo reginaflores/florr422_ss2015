@@ -46,6 +46,12 @@ _____________________________________________
 Entering the [Matrix](http://patriciogonzalezvivo.com/2015/thebookofshaders/08/).
 _____________________________________________
 
+###Week 6: Patterns
+
+Entering the [Matrix](http://patriciogonzalezvivo.com/2015/thebookofshaders/09/).
+_____________________________________________
+
+
 
 
 

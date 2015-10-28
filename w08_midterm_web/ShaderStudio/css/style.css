@@ -1,0 +1,76 @@
+/*  
+	======================== 
+	- Note: These styles are just to pretty the basic page up a bit.
+	You should ignore these when copying and pasting into your site 
+	because your stylesheet should take care of making it look pretty!
+	======================== 
+	*/
+	body { 
+		padding:2em; 
+		font : 100%/1.4; 
+		/*'Helvetica Neue', arial, helvetica, helve, sans-serif; 	*/
+ 	}
+	h1 { 
+		font-family: 'Lobster', cursive;
+		font-size:5.2em; 
+		padding:0 0 .5em 0; 
+	}
+	h2 { 
+		/*font-family: 'Lato', sans-serif;*/
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-size:2.5em; 
+	}
+	h3 { 
+		/*font-family: 'Lato', sans-serif;*/
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-style: italic;
+		font-size:1.0em; 
+	}
+	p{
+		font-family: 'Open Sans Condensed', sans-serif;
+		/*font-style: italic;*/
+		font-size:1.0em; 
+
+	}
+	a{
+		text-decoration: none;
+		color:black;
+	}
+
+	a:hover {
+    	background-color: yellow;
+	}
+
+
+	.header { 
+		padding:1em 0; 
+	}
+	.col { 
+		/*background: #ccc; */
+		background-color: white;
+		padding:1em 0; 
+		text-align:center;
+	}
+	#top {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+	
+	}
+
+
+	/* Interactive GLSL Canvas
+---------------------------------
+*/
+
+canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
+    max-width: 700px;
+    overflow: hidden;
+    -webkit-mask-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC); /* this fixes the overflow:hidden in Chrome/Opera */
+}
+
+
