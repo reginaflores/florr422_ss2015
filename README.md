@@ -48,11 +48,40 @@ _____________________________________________
 
 ###Week 6: Patterns
 
-Entering the [Matrix](http://patriciogonzalezvivo.com/2015/thebookofshaders/09/).
+Making [Patterns](http://patriciogonzalezvivo.com/2015/thebookofshaders/09/).
+_____________________________________________
+###Week 7: Review
+
+Look above.
+_____________________________________________
+###Week 8: Midterm
+
+Link to my [project](http://faceproject.nyc/ShaderStudio/).
+_____________________________________________
+###Week 9: Random
+
+Let's get [random](http://patriciogonzalezvivo.com/2015/thebookofshaders/10/).
+_____________________________________________
+
+###Week 10: Noise
+
+Let's make some [noise](http://patriciogonzalezvivo.com/2015/thebookofshaders/11/).
 _____________________________________________
 
 
+###Week 11: Image Processing
+
+Shaders with [images](http://patriciogonzalezvivo.com/2015/thebookofshaders/15/).
+_____________________________________________
 
 
+###Week 12: Final Concept Presentations
 
+For my final I am thinking about the microbiome of New York City - the invisible, microbial world that surrounds us. Using the Tangram library, I wish to visualize the city as a shadow world and show the city through the eyes of microbes. If we could see the city as a microbe does, what would that look like? Are the buildings  clouds? Shadows? How does perception change?
+_____________________________________________
+
+###Week 13: Final Protoype 1
+
+Here is a link to the first [prototype](http://faceproject.nyc/myTangram/myTanagram.html). 
+_____________________________________________
 
