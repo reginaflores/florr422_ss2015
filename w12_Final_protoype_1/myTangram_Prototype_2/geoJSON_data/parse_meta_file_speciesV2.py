@@ -31,16 +31,13 @@ dlng = max_lng - min_lng
 def generate_coordinates(amount):
     lat = np.random.uniform(min_lat, max_lat)
     lng = np.random.uniform(min_lng, max_lng)
-    lat2 = np.random.uniform(min_lat, max_lat)
-    lng2 = np.random.uniform(min_lng, max_lng)
-
 
     # top = [ lat + dlat/100, lng ]
     # left = [lat, lng - dlat/200 ]
     # right = [lat, lng + dlat/200 ]
 
     # return [top, left, right, top]
-    return [lat, lng, lat2, lng2]
+    return [lat, lng]
 
 features = []
 
@@ -63,7 +60,7 @@ def parse_row(row):
         species = hierarchy[-1].split('__')[1]
         
         geometry = {
-            'type': 'MultiPoint',
+            'type': 'Point',
             'coordinates': generate_coordinates(amount)
         }
         data = {
