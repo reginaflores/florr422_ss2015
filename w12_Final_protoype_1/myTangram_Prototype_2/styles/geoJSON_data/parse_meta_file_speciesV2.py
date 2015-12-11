@@ -20,10 +20,10 @@ taxonomy = {
 
 
 
-max_lat = 40.7725
-min_lat = 40.7424
-max_lng = -73.8567
-min_lng = -7.9469
+max_lat = 40.7867
+min_lat = 40.7147
+max_lng = -73.8304
+min_lng = -73.9689
 dlat = max_lat - min_lat
 dlng = max_lng - min_lng
 
