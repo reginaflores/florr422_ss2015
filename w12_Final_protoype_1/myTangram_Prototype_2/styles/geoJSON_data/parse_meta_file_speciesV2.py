@@ -23,7 +23,7 @@ taxonomy = {
 max_lat = 40.7725
 min_lat = 40.7424
 max_lng = -73.8567
-min_lng = -74.9469
+min_lng = -7.9469
 dlat = max_lat - min_lat
 dlng = max_lng - min_lng
 
