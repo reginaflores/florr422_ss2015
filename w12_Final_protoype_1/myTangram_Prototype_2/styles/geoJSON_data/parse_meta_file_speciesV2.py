@@ -84,5 +84,5 @@ output = {
     'type': "FeatureCollection",
     'features': features,
 }
-json.dump(output, open('meta_file_species_Point.json', 'w'), sort_keys=True, indent=2, separators=(',', ': '))
+json.dump(output, open('meta_file_species_Point.json', 'w'), indent=2, separators=(',', ': '))
 
