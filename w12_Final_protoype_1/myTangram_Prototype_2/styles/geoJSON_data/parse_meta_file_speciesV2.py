@@ -23,7 +23,7 @@ taxonomy = {
 max_lat = 40.7725
 min_lat = 40.7424
 max_lng = -73.8567
-min_lng = -73.9469
+min_lng = -74.9469
 dlat = max_lat - min_lat
 dlng = max_lng - min_lng
 
@@ -84,5 +84,5 @@ output = {
     'type': "FeatureCollection",
     'features': features,
 }
-json.dump(output, open('meta_file_species_mutltiPoint.json', 'w'), sort_keys=True, indent=2, separators=(',', ': '))
+json.dump(output, open('meta_file_species_Point.json', 'w'), sort_keys=True, indent=2, separators=(',', ': '))
 

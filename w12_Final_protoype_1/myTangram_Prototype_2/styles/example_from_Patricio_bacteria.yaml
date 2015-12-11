@@ -224,7 +224,7 @@ sources:
         url:  //vector.mapzen.com/osm/all/{z}/{x}/{y}.topojson?api_key=vector-tiles-JUsa0Gc
     bacteria:
         type: GeoJSON
-        url: astoria_meta_file_species.json
+        url: meta_file_species_Point.json
 layers:
     # earth:
     #     data: { source: osm }
