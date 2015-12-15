@@ -16,11 +16,11 @@ var map = (function () {
     //654 Park Place, Brooklyn, NY
     //40.6738101, -73.9584195
     // 40.70531887544228, -74.00976419448853
-    var map_start_location = [40.70531887544228,-74.00976419448853 , 16];
+    var map_start_location = [40.7310, -73.9001 , 13.475];
 
 
     
-    var style_file = 'styles/example_from_Patricio_bacteria.yaml';
+    var style_file = 'styles/pointCloudBuildings.yaml';
 
     /*** Map ***/
     var map = L.map('map', {

@@ -37,7 +37,8 @@ def generate_coordinates(amount):
     # right = [lat, lng + dlat/200 ]
 
     # return [top, left, right, top]
-    return [lat, lng]
+    # return [lat, lng]
+    return [lng, lat]
 
 features = []
 
@@ -54,28 +55,32 @@ def parse_row(row):
             # only create empty samples if there is nothing in
             # output[location] already
 
-        amount = np.mean([row[sample] for sample in samples])
+        amount = np.max([row[sample] for sample in samples])
 
 
         species = hierarchy[-1].split('__')[1]
         
-        geometry = {
-            'type': 'Point',
-            'coordinates': generate_coordinates(amount)
-        }
-        data = {
-            'location': location,
-            'species': species,
-            'percentage': amount,
-            'kind': 'bacteria',
-        }
-        feature = {
-            'geometry': geometry,
-            'type': "Feature",
-            'properties': data,
-        }
+        #using the ceiling to draw the points
+        #if you 100% abundance == 100 points
+        number_of_points = int(np.ceil(amount))
+        for i in xrange(number_of_points):
+            geometry = {
+                'type': 'Point',
+                'coordinates': generate_coordinates(amount)
+            }
+            data = {
+                'location': location,
+                'species': species,
+                'percentage': amount,
+                'kind': 'bacteria',
+            }
+            feature = {
+                'geometry': geometry,
+                'type': "Feature",
+                'properties': data,
+            }
 
-        features.append(feature)
+            features.append(feature)
 
 
 csv.apply(parse_row, axis=1) 
