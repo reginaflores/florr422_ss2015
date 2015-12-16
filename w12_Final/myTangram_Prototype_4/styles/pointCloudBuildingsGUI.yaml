@@ -6,16 +6,16 @@ sources:
         url:  //vector.mapzen.com/osm/all/{z}/{x}/{y}.topojson?api_key=vector-tiles-JUsa0Gc
     astoria_data:
         type: GeoJSON
-        url: geoJSON_data/meta_file_species_Point_Astoria.json
+        url: https://raw.githubusercontent.com/reginaflores/florr422_ss2015/master/w12_Final/myTangram_Prototype_4/styles/geoJSON_data/meta_file_species_Point_Astoria.json
     crownHeights_L_data:
         type: GeoJSON
-        url: geoJSON_data/meta_file_species_Point_CrownHeights_L.json
+        url: https://raw.githubusercontent.com/reginaflores/florr422_ss2015/master/w12_Final/myTangram_Prototype_4/styles/geoJSON_data/meta_file_species_Point_CrownHeights_L.json
     crownHeights_TB_data:
         type: GeoJSON
-        url: geoJSON_data/meta_file_species_Point_CrownHeights_TB.json
+        url: https://raw.githubusercontent.com/reginaflores/florr422_ss2015/master/w12_Final/myTangram_Prototype_4/styles/geoJSON_data/meta_file_species_Point_CrownHeights_TB.json
     fortgreen_data:
         type: GeoJSON
-        url: geoJSON_data/meta_file_species_Point_FortGreen.json   
+        url: https://raw.githubusercontent.com/reginaflores/florr422_ss2015/master/w12_Final/myTangram_Prototype_4/styles/geoJSON_data/meta_file_species_Point_FortGreen.json   
 cameras:
     perspective:
         type: perspective

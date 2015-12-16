@@ -1,0 +1,5477 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97860008839669,
+          40.68862479012386
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.47133,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97622965881575,
+          40.68676945063843
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.47133,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97983022917188,
+          40.69658015562595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.47133,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97742850380392,
+          40.695567541746065
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.47133,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97480427980832,
+          40.69389756755799
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.47133,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97806874576214,
+          40.69708313589285
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97603254650755,
+          40.68955034837139
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97418131524917,
+          40.68666841308622
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97801604957077,
+          40.69718955059649
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97204726814499,
+          40.69522765453857
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97183918245942,
+          40.686321685343
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97402030181539,
+          40.69677326367601
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97574376629417,
+          40.69546248508034
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97440864906893,
+          40.68351416628633
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9726894484462,
+          40.68997345731269
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97732676757057,
+          40.694129709232534
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97628641123657,
+          40.69145961815551
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9724497444135,
+          40.69335273879001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97739484672844,
+          40.69737170127268
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97681368679324,
+          40.686771902085205
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97772433761445,
+          40.68735068152703
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97611713231201,
+          40.69254974693536
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97426854951307,
+          40.68766310743852
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97413618308558,
+          40.6903594597658
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97578159413848,
+          40.68582741837549
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97856546003827,
+          40.697382150357264
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97775790020042,
+          40.69084238678356
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97897858202222,
+          40.69593662046356
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97649992510307,
+          40.68943095660677
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97170090783712,
+          40.693125339056536
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97762548593026,
+          40.69621364097235
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97311603461155,
+          40.68721233894891
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97694433749592,
+          40.69126846973228
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97277821973623,
+          40.694665644965106
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97444680351997,
+          40.69510941031556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97332827921159,
+          40.684778528044454
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97341885397319,
+          40.69698581590731
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97326850097862,
+          40.685468223112466
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97349770286485,
+          40.692623845972136
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97303326332339,
+          40.69355056708526
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97793071520663,
+          40.68841578026776
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97372755741685,
+          40.69585421616602
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97443307153854,
+          40.68644132015562
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97207204138053,
+          40.69510772028381
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97372616054862,
+          40.68995904250476
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97732742170834,
+          40.69632649974195
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97777315822101,
+          40.68997953995033
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97809095560754,
+          40.69149374893936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97473342698503,
+          40.6844562603681
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97396123640875,
+          40.69278374315724
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97556721840758,
+          40.68875020600194
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97645643602928,
+          40.693404382383186
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9754716284358,
+          40.68518319766968
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97290334677605,
+          40.684781001361934
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97859671611528,
+          40.68974821126738
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97857267162371,
+          40.68581302812905
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97520891960698,
+          40.683447794074816
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9755741265487,
+          40.6924494652115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97541467952546,
+          40.6900187426857
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97428708074968,
+          40.695289959984066
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97595687653559,
+          40.69266574269127
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97424575054302,
+          40.688206730519916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97629282425038,
+          40.69425239881996
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97249495816365,
+          40.68332113133623
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97851192304147,
+          40.696968846728936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97390716710565,
+          40.69514798083319
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97300126378946,
+          40.68424932075035
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97224415674853,
+          40.69710095038049
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97552118041932,
+          40.692902737063285
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97845089545898,
+          40.68848639888293
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97373416496738,
+          40.69135688438641
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97703380117018,
+          40.688114367439326
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97664455682671,
+          40.6934706142836
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97582095744197,
+          40.6964087853496
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97291894281881,
+          40.6843774859693
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97357267816103,
+          40.68473503028342
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97645844023548,
+          40.687267480944996
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97909129768925,
+          40.68757003138721
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97815956995802,
+          40.69387996956663
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.191559999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97800628731548,
+          40.68718401453787
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.15924000000000002,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Chryseobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97575154555692,
+          40.69662611378872
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.37937,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97342883142738,
+          40.68347981529985
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.37937,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97334079140852,
+          40.68813645774394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.25359999999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Fructobacillus_fructosus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97729487996024,
+          40.69021948370831
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.21393,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9741445088734,
+          40.688459619870414
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.21393,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97435674362411,
+          40.69335294329411
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9721214141171,
+          40.687650915532366
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97278358515668,
+          40.68428761101929
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97770490706957,
+          40.690340101493334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97272105737788,
+          40.695393744732044
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9720586068383,
+          40.685463194277325
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97233998495405,
+          40.69180899054134
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97655394679765,
+          40.691748251864354
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97667210350383,
+          40.68858566780428
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97936543663309,
+          40.69324028593247
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98066055455634,
+          40.689392076185236
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97545025637864,
+          40.69000390715894
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97368006483904,
+          40.68615127940565
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97226969798142,
+          40.69024704499407
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97494443801362,
+          40.688229390590266
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97588192888166,
+          40.696298436931976
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97247075319869,
+          40.69269336225483
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97463231598852,
+          40.688777640593095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97162566207112,
+          40.68530922357687
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9789485010976,
+          40.68764033016395
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97728034557666,
+          40.6852989073159
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97643684283733,
+          40.69323299835638
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97546391011245,
+          40.68804429551789
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97466626569663,
+          40.69334278323964
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97782354763825,
+          40.691209771810016
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97276631122257,
+          40.68836907512878
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9718998140143,
+          40.69017372075007
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97218839055684,
+          40.68352081535151
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 27.951979999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97749025235349,
+          40.69654753140091
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.70921999999999996,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Mesorhizobium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97716678696462,
+          40.69078602050384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97537241441962,
+          40.69485208827935
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97857479494508,
+          40.69570948756973
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97580685633328,
+          40.69462545259891
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97519856714733,
+          40.692063147018416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9747590519626,
+          40.69110401283943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97627647327555,
+          40.693846381819505
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97429799324881,
+          40.69636217247207
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97564365310892,
+          40.68558272426954
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97709988853475,
+          40.69103463370454
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97704420763289,
+          40.69239219905437
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9789532190913,
+          40.691830632742764
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97716023527478,
+          40.69289078206671
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97542342422946,
+          40.697462704070645
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97181512691476,
+          40.68684047670978
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97772778781281,
+          40.68642737638509
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97359886656066,
+          40.68548396628249
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97666605249115,
+          40.68675218295797
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.154489999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9756283994451,
+          40.69755073883596
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.33249,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_parkeri"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97731127825008,
+          40.68828065969836
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.33249,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_parkeri"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98058425296797,
+          40.68924717421982
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.33249,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_parkeri"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97523501035454,
+          40.69016334068879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.33249,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Rickettsia_parkeri"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9741333397937,
+          40.687754653046234
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97310116626723,
+          40.697655626640675
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97740294096286,
+          40.6970882516668
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97250010923976,
+          40.68477057974943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9788081892045,
+          40.686476403832366
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97627150360952,
+          40.68434933019803
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97838491215131,
+          40.6859529063018
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97812551134284,
+          40.69052834062771
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97251537586214,
+          40.6915422566401
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97303144563975,
+          40.683880152584955
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97537483964348,
+          40.69166747612565
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97480186877893,
+          40.69526445969324
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97672397341387,
+          40.691119947088325
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97716646192865,
+          40.6890494179277
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97435807036301,
+          40.695030530540535
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9792242496764,
+          40.68900444758128
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97406727324405,
+          40.68712079185026
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9778302063318,
+          40.69605157607254
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9732854318906,
+          40.68829099880293
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97222594057936,
+          40.69642742536235
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97362648063374,
+          40.68618489287217
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97207416016664,
+          40.694555822203725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972411105636,
+          40.69261755612669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9716487550938,
+          40.6964269297345
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97441563281332,
+          40.686652788614154
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97436521412328,
+          40.68361172866738
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97263953683128,
+          40.6846017469295
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97874526043205,
+          40.68957039669992
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97786679295614,
+          40.68939006334297
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97636288447659,
+          40.685385405356946
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97388554045524,
+          40.68776209762843
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97401101564881,
+          40.69237492244754
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97729272315439,
+          40.689018202025785
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.12856,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97481625787813,
+          40.683828892003056
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.39343,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97774728376554,
+          40.68946175902506
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.83294999999999997,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Comamonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97741715831812,
+          40.69480950108232
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.52228999999999992,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Limnohabitans_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9761437028981,
+          40.68725587895143
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.47376,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Polaromonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97514966766391,
+          40.69748587950298
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.47376,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Polaromonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97581318466906,
+          40.687259687824614
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.47376,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Polaromonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97372924723615,
+          40.68488054981734
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.11145,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Variovorax_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97564075234918,
+          40.69455985401112
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.11145,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Variovorax_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97879828544318,
+          40.69146707321747
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.11145,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Variovorax_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97573923980467,
+          40.690949210796894
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.11145,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Variovorax_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97463599698041,
+          40.69387370591485
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.1193,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9736016454384,
+          40.68968164465828
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.1193,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97498521466316,
+          40.685272253200125
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.1193,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9774722678409,
+          40.69228494546135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.1193,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97490512527253,
+          40.69144900518401
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.2331000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97701835721922,
+          40.68791092147998
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.2331000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97438172914575,
+          40.69277628135828
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97271225027362,
+          40.68507331452817
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97679246668487,
+          40.69502532902384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97431637479988,
+          40.68443615452876
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97789676602034,
+          40.6949166642823
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97463855749554,
+          40.69365025268839
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9728872467859,
+          40.69183652612774
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97722276150785,
+          40.695402112229885
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97257950872506,
+          40.6953001486552
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977385403095,
+          40.69780792730216
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9719173559311,
+          40.687447320247834
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97723292759429,
+          40.697071482492674
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97426340070115,
+          40.69768826200517
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97628330826133,
+          40.68860217556523
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97714345493375,
+          40.691212735632064
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97156051978259,
+          40.68962638201497
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97659082452023,
+          40.68418070880283
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97579742022769,
+          40.68923994763256
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.23649,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97292718012329,
+          40.687195947234244
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.4068999999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97416292000914,
+          40.69626280232137
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.4068999999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9732872769132,
+          40.68493588391023
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.4068999999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97383741283298,
+          40.68998731866477
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3281000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97741159804461,
+          40.68794737421136
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3281000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97973547458159,
+          40.68921889162496
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3281000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97674528112458,
+          40.68875200148884
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3281000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97577072805953,
+          40.684166641798214
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3281000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97580133816369,
+          40.69730082349261
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3281000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97881214025608,
+          40.68958237230458
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3281000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9721022146574,
+          40.6942211659736
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3281000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9766489620505,
+          40.693919449144836
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97739801953172,
+          40.69253269750013
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97726765501636,
+          40.68802753452496
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97154157247476,
+          40.6843257842135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97699004258024,
+          40.69358190828585
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97233670954084,
+          40.691934559414456
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97715909141282,
+          40.69014857715544
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97488016878827,
+          40.685053606980155
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97533434056734,
+          40.69417433089454
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97588146259743,
+          40.69546510535254
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.3965700000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97534732802232,
+          40.69226651362621
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.2861899999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Providencia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97782774019045,
+          40.68788426532379
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.2861899999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Providencia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97491297997453,
+          40.69390665879064
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.2861899999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Providencia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97663237355006,
+          40.69140521027399
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.2861899999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Providencia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9716083539708,
+          40.695299000367825
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3156300000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Serratia_marcescens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97647390436703,
+          40.686408382506144
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3156300000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Serratia_marcescens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9721960367393,
+          40.684369434109925
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3156300000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Serratia_marcescens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97492570450137,
+          40.69597995251191
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3156300000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Serratia_marcescens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97663931217323,
+          40.6928995740591
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3156300000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Serratia_marcescens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97165180811955,
+          40.691337635494875
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3156300000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Serratia_marcescens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97813832359591,
+          40.69623895813015
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3156300000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Serratia_marcescens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97311056787437,
+          40.69251582501937
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.3156300000000005,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Serratia_marcescens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9767239782205,
+          40.68797363534334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.11439000000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97431732339675,
+          40.68714438220777
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.9993200000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_lwoffii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97518170085468,
+          40.688088574233845
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.0288300000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9761000975357,
+          40.690211590806946
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.0288300000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9789608194718,
+          40.68922413769812
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.0288300000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97942558872681,
+          40.68908969822727
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.0288300000000001,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97711736750627,
+          40.686274394342654
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.3990499999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_radioresistens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9726689131645,
+          40.69220094267095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.3990499999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_radioresistens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9746579565027,
+          40.690676956787556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.3990499999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_radioresistens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97677393335974,
+          40.6965748193579
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.3990499999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_radioresistens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97537250771056,
+          40.69232134960722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.3990499999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_radioresistens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97738620365976,
+          40.692518817454484
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.068659999999999999,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_schindleri"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97709889816166,
+          40.68435984115009
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9717060014683,
+          40.684426894676434
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97495959191997,
+          40.694756373881326
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97279288481225,
+          40.68683347462166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97220264612201,
+          40.68459953068808
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97669208886829,
+          40.695224435294215
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9788718205605,
+          40.689288503058926
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97881238962508,
+          40.69628909043901
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9760657501484,
+          40.69299908310214
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97248632329058,
+          40.69484580958379
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9719665190813,
+          40.692830095175516
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97352706506221,
+          40.69303117331112
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97232634922847,
+          40.69221308609772
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97870022386147,
+          40.68930280939241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97298950420917,
+          40.69352157585872
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97227514589478,
+          40.683782926271824
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97336423368381,
+          40.69692174207923
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97236206666976,
+          40.6948988736341
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97584422305171,
+          40.68510344925305
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97878642213422,
+          40.68802091990198
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97288693408876,
+          40.68752369089737
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97648825244458,
+          40.696645281197384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97416279389851,
+          40.694431886414975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9759581402025,
+          40.690721871290755
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97184997042243,
+          40.6831269122263
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97383393935878,
+          40.68671054047763
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97488342111258,
+          40.68812077318886
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97258560244363,
+          40.69460343134198
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97649398302407,
+          40.690890980517786
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97448565221923,
+          40.69028135291348
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97194925089326,
+          40.689324423392314
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97662494014871,
+          40.68852666239009
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97471426665088,
+          40.692306272836184
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97929467728831,
+          40.69693407970023
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97672040069584,
+          40.693063894629034
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97157992352845,
+          40.69035698448175
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97646514566047,
+          40.68638995393453
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9768319505977,
+          40.68888270389427
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97345596457679,
+          40.69507377234462
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9765860561099,
+          40.690746802623465
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97776051819119,
+          40.68659816520517
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97452288966636,
+          40.685957661277406
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97416922013265,
+          40.68482764806046
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9783593357164,
+          40.697793606055
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97478835707167,
+          40.688440192652784
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97536668972238,
+          40.688761782460084
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97422858726276,
+          40.68390861530031
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97754979822238,
+          40.69103767129088
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97846077122436,
+          40.69347008354492
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97454130568187,
+          40.69684271018486
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9747256385694,
+          40.692292759040015
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.331670000000003,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97310117887766,
+          40.6859481032182
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97460655053516,
+          40.688177985806334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97296622966596,
+          40.6926173514892
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97672099211425,
+          40.68806112338305
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98030585618659,
+          40.68913640000697
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97711567914715,
+          40.689707998196745
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97743065895526,
+          40.69340012045364
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97261851143521,
+          40.69501823736867
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97703353186628,
+          40.68614350157003
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97644399725885,
+          40.694350903725145
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9751774170359,
+          40.6880925191377
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97696641834769,
+          40.69459887404197
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97626617489436,
+          40.69009561741251
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97955609858259,
+          40.68942892609515
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97624303187685,
+          40.6969197720325
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9797699014099,
+          40.69545066168644
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97403317955538,
+          40.69375062242154
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97527813799964,
+          40.69067301953371
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 17.434449999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97478956292629,
+          40.69564200776007
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97659827786798,
+          40.69367058187485
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974175112062,
+          40.69478399357489
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97426055702512,
+          40.69101421682347
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97215502224464,
+          40.69676435577255
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97508334452895,
+          40.693776004241464
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97580729286099,
+          40.686978079799886
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97239431702032,
+          40.689200262661
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97711568090166,
+          40.69074252086484
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97589842934997,
+          40.69209507796545
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97799905984857,
+          40.68670870167927
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97306219333389,
+          40.683195016425586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97237880679977,
+          40.69145538455207
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97393255315626,
+          40.693782114111826
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97630529699703,
+          40.6842486384949
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97895715974825,
+          40.6931425878868
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97187837452945,
+          40.69461095232734
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97814709383,
+          40.69495249759703
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9749747597826,
+          40.683639823180066
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97461091020915,
+          40.68935907360494
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97429385330128,
+          40.689812384381305
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97284855354918,
+          40.690216637737166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97597897729399,
+          40.69286749800543
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9747383331591,
+          40.69560014434794
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 23.726589999999998,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97183513335051,
+          40.690472438124466
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.62076000000000009,
+        "location": "FORT GREENE",
+        "kind": "bacteria",
+        "species": "C2likevirus_unclassified"
+      }
+    }
+  ]
+}

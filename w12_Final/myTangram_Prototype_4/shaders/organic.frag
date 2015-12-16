@@ -30,11 +30,11 @@ void main() {
     vec2 st = gl_FragCoord.xy/u_resolution.xy;
     st*= 10.;
     vec3 color = vec3(0.0);
-    st += noise(st*2.)*u_time; 
+    st += noise(st*2.)*2.*u_time; 
     color = vec3(1.) * smoothstep(.18,.2,noise(st)); 
-    color = vec3(0, 1., 1.) * smoothstep(.18,.2,noise(st)); 
-    color += vec3(0., 1., 0.)*smoothstep(.15,.2,noise(st*10.)); 
+    color = vec3(0, 1., 1.) * smoothstep(.2,.2,noise(st)); 
+    color += vec3(0., 1., 0.)*smoothstep(.0,.2,noise(st*10.)); 
     color -= smoothstep(.35,.4,noise(st*10.)); 
-    color += vec3(.898, .3232, 0.);
+    color += vec3(.0, 0., 0.);
     gl_FragColor = vec4(color,1.0);
 }
