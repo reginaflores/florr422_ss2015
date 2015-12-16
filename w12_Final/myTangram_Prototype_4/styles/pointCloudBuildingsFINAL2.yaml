@@ -492,15 +492,51 @@ styles:
         base: points
         texcoords: true
         mix: [tilt, shapes-polygons, color-conversion, color-tools, filter-tv, generative-random, shape-blob]
-        # shaders: 
-        #     blocks:
-        #         color: |
-        #             vec2 st = gl_FragCoord.xy/u_resolution.xy;
-        #             color.rgb = vec3(1.0, 0.0, 0.) * blobBorder(st,0.9,0.01);
+        shaders: 
+            blocks:
+                global: |
+                    float triangle(vec2 st){
+                        float d = 0.0;
+                        // Number of sides of your shape
+                        int N = 3;
+                        float n_st = noise(st);
+                        // Angle and radius from the current pixel
+                        float a = n_st*atan(st.x,st.y)+PI;
+                        float r = TWO_PI/float(N);
+                        float m = abs(mod(a+u_time*2.,PI*2.)-PI)/2.;
+                        vec2 mouseSim = random2(st);
+                        m += noise(st*2.*mouseSim+u_time*0.1)*2.;
+                        // Shaping function that modulate the distance
+                        d = cos(floor(.5+a/(m*r))*(m*r)-a)*length(st);
+                        return d;
+                    }
+                color: |
+                        vec2 st = gl_FragCoord.xy/u_resolution.xy;
+                        st.x *= u_resolution.x/u_resolution.y;
+                        // Remap the space to -1. to 1.
+                        st = st *2.-1.;
+                        float tri = triangle(st);
+                        color.rgb = 1. - vec3(1.0-smoothstep(.4,.41,tri));
+                        color.rgb += vec3(.0,1.0,.0);
+                        color.rgb = 1. - color.rgb;
+                        //gl_FragColor = vec4(1.-color,1.0);
+
     crownHeights_TB_Shader:
         base: points
         texcoords: true
         mix: [tilt, shapes-polygons, color-conversion, color-tools, filter-tv, generative-random]
+        shaders: 
+            blocks:
+                color: |
+                        vec2 st = gl_FragCoord.xy/u_resolution.y;
+                        float intensity = 0.;
+                        for (float i = 0.; i < 50.; i++) {
+                            float angle = i/50. * 2. * 43.14159;
+                            vec2 xy = vec2(0.25 * cos(angle), 0.25 * sin(angle));
+                            xy += st-0.5;
+                            intensity += pow(100000., (.9 - length(xy) * 1.9) * (1. + 0.25 * fract(-i / 8. - (u_time*10.)))) / 100000.;
+                        }
+                        color.rgb = vec3(clamp(intensity * vec3(.1, .1, 0.2), vec3(0.), vec3(1.)));
 layers:
     astoriaLayer:
         data: { source: astoria_data }

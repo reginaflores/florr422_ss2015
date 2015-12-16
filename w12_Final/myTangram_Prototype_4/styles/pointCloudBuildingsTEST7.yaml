@@ -20,27 +20,17 @@ cameras:
         focal_length: [[16, 2], [20, 6]] # pairs of [zoom, focal len]
         vanishing_point: [-250, -250] # relative to center of screen, in pixels
         active: true
+lights:
+    light1:
+        type: spotlight
+        position: [-74.0170, 40.7031, 100]
+        ambient: .3
+        diffuse: [0.451, 1.000, 0.573]
+        specular: .2
 scene:
     background:
         color: '#000000'
 styles:
-    rainbow:
-        base: polygons
-        animated: true
-        lighting: false
-        shaders:
-            blocks:
-                global: |
-                    // hue-saturation-value to RBG color space converter
-                    vec3 hsv2rgb(vec3 c) {
-                        vec4 K = vec4(1.0, 2.0 / 3.0, 1.0 / 3.0, 3.0);
-                        vec3 p = abs(fract(c.xxx + K.xyz) * 6.0 - K.www);
-                        return c.z * mix(K.xxx, clamp(p - K.xxx, 0.0, 1.0), c.y);
-                    }
-                color: |
-                    // modulate hue by z-position and time, then convert to RGB and set pixel color
-                    vec3 c = vec3(worldPosition().z * .003 + u_time / 10., 1.0, 1.0);
-                    color.rgb = hsv2rgb(c);
     tilt:
         animated: true
         base: polygons
@@ -182,7 +172,7 @@ styles:
                     float pct = grid(v_texcoord,10.,0.1)*0.5;
                     uv *= 18.;
                     uv = fract(uv);
-                    //uv += sin(u_time*0.2);
+                    uv += sin(u_time*0.2);
                     float smoothEdges = 0.01;
                     vec2 size = vec2(0.6);
                     size = vec2(0.5)-size*0.2;
@@ -203,7 +193,7 @@ styles:
                     float pct = grid(v_texcoord,10.,0.1)*0.5;
                     uv *= 20.;
                     uv = fract(uv);
-                    //uv += sin(u_time*0.2);
+                    uv += sin(u_time*0.2);
                     float smoothEdges = 0.01;
                     vec2 size = vec2(0.9);
                     size = vec2(0.5)-size*0.1;
@@ -441,6 +431,103 @@ styles:
                                         rect(st, vec2(width*0.125,size*0.5)),0.,1.);
                     }
                 color: |
+                    vec2 st = gl_FragCoord.xy/u_resolution;
+                    vec2 p = (gl_FragCoord.xy * 2.0 - u_resolution) / min(u_resolution.x, u_resolution.y);
+                    
+                    vec3 destColor = vec3(0.0, 0.5, 0.0);
+                    
+                    float f = 0.0;
+                    float n = 3.0;
+                    float a = 2.0 * 3.14159265 / n;
+                    for(float i = 0.0; i < 60.0; i++) {
+                        float o = mod(1.0 * u_time + length(p)*a, 2.*3.14159265);
+                        float s = sin(o + u_time) / 200.0;
+                        float c = cos(o) / 2.;
+                        f += 0.00025 / abs(length(p + vec2(c, s)) - 0.3);
+                    }
+                    color.rgb = vec3(destColor * f);
+                    //color.a = 1.0;
+    crownHeights_L_Shader:
+        base: points
+        texcoords: true
+        mix: [tilt, shapes-polygons, color-conversion, color-tools, filter-tv, generative-random, shape-blob]
+        shaders: 
+            blocks:
+                global: |
+                    float rect (vec2 st, vec2 size){
+                        size = .25-size*.125;
+                        vec2 uv = step(size,st*(1.0-st));
+                        return (uv.x*uv.y);
+                    }
+                    float cross (vec2 st, float size, float width) {
+                        return  clamp(  rect(st, vec2(size*0.5,width*0.125)) +
+                                        rect(st, vec2(width*0.125,size*0.5)),0.,1.);
+                    }
+                color: |
+                    vec2 st = gl_FragCoord.xy/u_resolution.xy;
+                    
+                    st -= .5;
+                    vec2 dir = normalize(st);
+                    float rad = dot(st,st)*.5;
+                    
+                    vec2 tex_uv = v_texcoord.xy;
+                    vec3 color_offsets = vec3(.5,0.,1.)*rad;
+                    
+                    float bri = getBrightness(color);
+                    float intensity = getIntensity(color);
+                    float rnd = random(bri);
+                    float rnd2 = random(intensity);
+                    
+                    if (rnd < .33333) {
+                        color.rgb = vec3(0.586,0.992,0.833);
+                    } else if (rnd < .66666) {
+                        color.rgb = vec3(0.882,0.218,0.355);
+                    } else {
+                        color.rgb = vec3(0.520,0.914,0.976);
+                    }
+                    
+                    float size = .2+rnd2*.4;
+                    
+                    if (rnd < .1) {
+                        color.r *= cross(tex_uv+dir*color_offsets.r, size*3., size*.5);
+                        color.g *= cross(tex_uv+dir*color_offsets.g, size*3., size*.5);
+                        color.b *= cross(tex_uv+dir*color_offsets.b, size*3., size*.5);
+                    } else {
+                        int sides = int(3.+mod(rnd*10.,5.));
+                        if (sides == 3){
+                            // Scale and translate triangle
+                            size *= .7;
+                            tex_uv += vec2(0.,.2);
+                        } else if (sides == 6) {
+                            // Rotate hexagon
+                            tex_uv = tex_uv.yx; 
+                        } else if (sides == 7) {
+                            // Make circle
+                            sides = 360; 
+                        }
+                        color.r *= shapeBorder(tex_uv+dir*color_offsets.r, sides, size,.2);
+                        color.g *= shapeBorder(tex_uv+dir*color_offsets.g, sides, size,.2);
+                        // color.b *= shapeBorder(tex_uv+dir*color_offsets.b, sides, size,.2);
+                    }
+                    
+                    color.a = max(color.r,max(color.g,color.b))*(1.0-rad);    
+    crownHeights_TB_Shader:
+        base: points
+        texcoords: true
+        mix: [tilt, shapes-polygons, color-conversion, color-tools, filter-tv, generative-random]
+        shaders: 
+            blocks:
+                global: |
+                    float rect (vec2 st, vec2 size){
+                        size = .25-size*.125;
+                        vec2 uv = step(size,st*(1.0-st));
+                        return (uv.x*uv.y);
+                    }
+                    float cross (vec2 st, float size, float width) {
+                        return  clamp(  rect(st, vec2(size*0.5,width*0.125)) +
+                                        rect(st, vec2(width*0.125,size*0.5)),0.,1.);
+                    }
+                color: |
                     vec2 st = gl_FragCoord.xy/u_resolution.xy;
                     
                     st -= .5;
@@ -487,20 +574,7 @@ styles:
                         color.b *= shapeBorder(tex_uv+dir*color_offsets.b, sides, size,.2);
                     }
                     
-                    color.a = max(color.r,max(color.g,color.b))*(1.0-rad);
-    crownHeights_L_Shader:
-        base: points
-        texcoords: true
-        mix: [tilt, shapes-polygons, color-conversion, color-tools, filter-tv, generative-random, shape-blob]
-        # shaders: 
-        #     blocks:
-        #         color: |
-        #             vec2 st = gl_FragCoord.xy/u_resolution.xy;
-        #             color.rgb = vec3(1.0, 0.0, 0.) * blobBorder(st,0.9,0.01);
-    crownHeights_TB_Shader:
-        base: points
-        texcoords: true
-        mix: [tilt, shapes-polygons, color-conversion, color-tools, filter-tv, generative-random]
+                    color.r = max(color.b,max(color.r,color.g))*(1.0-rad);
 layers:
     astoriaLayer:
         data: { source: astoria_data }
@@ -508,7 +582,7 @@ layers:
             AstoriaShader:
                 order: 10
                 size: |
-                    function() { return feature.percentage/5; }
+                    function() { return feature.percentage/10; }
             tilt_points:
                 order: 10
                 # size: |   
@@ -519,7 +593,7 @@ layers:
             crownHeights_L_Shader:
                 order: 10
                 size: |
-                    function() { return feature.percentage/5; }
+                    function() { return feature.percentage/10; }
             tilt_points:
                 order: 10
                 # size: |   
@@ -530,7 +604,7 @@ layers:
             crownHeights_TB_Shader:
                 order: 10
                 size: |
-                    function() { return feature.percentage/5; }
+                    function() { return feature.percentage/10; }
             tilt_points:
                 order: 10
                 # size: |   
@@ -541,46 +615,44 @@ layers:
             fortGreenShader:
                 order: 10
                 size: |
-                    function() { return feature.percentage/5; }
+                    function() { return feature.percentage/10; }
             tilt_points:
                 order: 10
                 # size: |   
                 #     function() { return feature.percentage/100.0; }
-    # landuse:
-    #     data: { source: osm }
-    #     draw:
-    #         # tiledCross:
-    #         #     order: 1
-    #         #     color: [0.0,0.0,0.0]
-    #         polygons:
-    #             style: flat
-    #             order: 0
-    #             color: '#000000'
+    landuse:
+        data: { source: osm }
+        draw:
+            # tiledCross:
+            #     order: 1
+            #     color: [0.0,0.0,0.0]
+            polygons:
+                style: flat
+                order: 0
+                color: '#000000'
 
-    # water:
-    #     data: { source: osm }
-    #     draw:
-    #         grid:
-    #             order: 3
-    #             color: [0.0,0.0,0.0]
-    #         outline:
-    #             order: 2
-    #             style: polygons
-    #             color: [0.0,0.0,0.0]
-    #             width: 1px
-    #             tile_edges: false
-    #         polygons:
-    #             order: 2
-    #             color: [0.004, 0.012, 0.020]
+    water:
+        data: { source: osm }
+        draw:
+            grid:
+                order: 3
+                color: [0.0,0.0,0.0]
+            outline:
+                order: 2
+                style: polygons
+                color: [0.0,0.0,0.0]
+                width: 1px
+                tile_edges: false
+            polygons:
+                order: 2
+                color: [0.004, 0.012, 0.020]
     roads:
         data: { source: osm }
         filter: { not: { kind: [rail, ferry] } }
         draw:
-            lines:
-                order: 4
             roads:
                 order: 4
-                # color: [0, 0, 0]
+                color: [0, 0, 0]
                 width: 8
         oneway:
             filter: { oneway: yes }

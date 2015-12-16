@@ -20,7 +20,7 @@ var map = (function () {
 
 
     
-    var style_file = 'styles/pointCloudBuildingsFINAL.yaml';
+    var style_file = 'styles/pointCloudBuildingsFINAL2.yaml';
 
     /*** Map ***/
     var map = L.map('map', {
