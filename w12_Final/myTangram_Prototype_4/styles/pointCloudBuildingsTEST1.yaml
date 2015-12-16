@@ -1,0 +1,605 @@
+﻿sources:
+    osm:
+        type: TopoJSON
+        url:  //vector.mapzen.com/osm/all/{z}/{x}/{y}.topojson?api_key=vector-tiles-JUsa0Gc
+    astoria_data:
+        type: GeoJSON
+        url: geoJSON_data/meta_file_species_Point_Astoria.json
+    crownHeights_L_data:
+        type: GeoJSON
+        url: geoJSON_data/meta_file_species_Point_CrownHeights_L.json
+    crownHeights_TB_data:
+        type: GeoJSON
+        url: geoJSON_data/meta_file_species_Point_CrownHeights_TB.json
+    fortgreen_data:
+        type: GeoJSON
+        url: geoJSON_data/meta_file_species_Point_FortGreen.json   
+cameras:
+    perspective:
+        type: perspective
+        focal_length: [[16, 2], [20, 6]] # pairs of [zoom, focal len]
+        vanishing_point: [-250, -250] # relative to center of screen, in pixels
+        active: true
+scene:
+    background:
+        color: '#000000'
+styles:
+    tilt:
+        animated: true
+        base: polygons
+        shaders:
+            blocks:
+                global: |
+                    mat3 rotateX3D(float phi){
+                        return mat3(
+                            vec3(1.,0.,0.),
+                            vec3(0.,cos(phi),-sin(phi)),
+                            vec3(0.,sin(phi),cos(phi)));
+                    }
+                    mat3 rotateZ3D(float psi){
+                        return mat3(
+                            vec3(cos(psi),-sin(psi),0.),
+                            vec3(sin(psi),cos(psi),0.),
+                            vec3(0.,0.,1.));
+                    }
+                position: |
+                    float t = 0.05; 
+                    position.xyz = rotateX3D(abs(cos(t))) * rotateZ3D(abs(sin(t))*.5) * position.xyz;
+    tilt_points:
+        base: points
+        mix: tilt
+    New_tilt:
+        base: points
+        mix: tilt
+    space-tile:
+        shaders:
+            blocks:
+                global: |
+                    // Variant to be add to both vertex and fragments shaders
+                    varying vec3 v_pos;
+                    //
+                    // Get the coordinates in tile space
+                    // ================================
+                    vec2 getTileCoords() {
+                        return fract(v_pos.xy);
+                    }
+                position: |
+                    // Normalize the attribute position of a vertex
+                    v_pos = modelPosition().xyz;
+    lin:
+        base: lines
+        mix: tilt
+    matrix:
+        mix: [tilt,space-tile]
+        texcoords: true
+        shaders:
+            blocks:
+                global: |
+                    // GridTile
+                    //=============================
+                    bool gridLine(vec2 st, float res, float press){
+                        vec2 grid = fract(st*res);
+                        return grid.x < res*press || grid.y < res*press;
+                    }
+                    float TileGrid(float res){
+                        vec2 st = getTileCoords()*100.*res;
+                        float pct = 0.0;
+                        float press = 0.4+(1.0-fract(u_map_position.z))*0.1;
+                        if (gridLine(st,0.01,press)) pct += 0.5;
+                        if (gridLine(st,0.1,press)) pct += 0.1;
+                        return pct;
+                    }
+                    float TileGrid(){ return mix(TileGrid(1.),TileGrid(2.),fract(u_map_position.z)); }
+                    // Random
+                    //=============================
+                    float random (in vec2 _st) { 
+                        return fract(sin(dot(_st.xy,
+                        vec2(12.9898,78.233)))*43758.5453123);
+                    }
+                    //  Noise
+                    //=============================
+                    float noise (in vec2 _st) {
+                        vec2 i = floor(_st);
+                        vec2 f = fract(_st);
+                        // Four corners in 2D of a tile
+                        float a = random(i);
+                        float b = random(i + vec2(1.0, 0.0));
+                        float c = random(i + vec2(0.0, 1.0));
+                        float d = random(i + vec2(1.0, 1.0));
+                        vec2 u = f * f * (3.0 - 2.0 * f);
+                        return mix(a, b, u.x) + 
+                                (c - a)* u.y * (1.0 - u.x) + 
+                                (d - b) * u.x * u.y;
+                    }
+                    float fbm ( in vec2 _st) {
+                        float v = 0.0;
+                        float a = 0.5;
+                        vec2 shift = vec2(100.0);
+                        // Rotate to reduce axial bias
+                        mat2 rot = mat2(cos(0.5), sin(0.5), 
+                                        -sin(0.5), cos(0.50));
+                        for (int i = 0; i < 5; ++i) {
+                            v += a * noise(_st);
+                            _st = rot * _st * 2.0 + shift;
+                            a *= 0.5;
+                        }
+                        return v;
+                    }
+                    //  Grid
+                    //=============================
+                    float grid (in vec2 _pos, in float _zoom, in float _lineWidth){
+                        _pos = fract(_pos*_zoom);
+                        vec2 g = smoothstep(vec2(0.5-_lineWidth),vec2(0.5),_pos) -
+                                 smoothstep(vec2(0.5),vec2(0.5+_lineWidth),_pos);
+                        return clamp(g.x+g.y,0.0,1.0);
+                    }
+                    //  Crosses
+                    //=============================
+                    float box(in vec2 _st, in vec2 _size){
+                        _size = vec2(0.5) - _size*0.5;
+                        vec2 uv = smoothstep(_size,
+                                            _size+vec2(0.001),
+                                            _st);
+                        uv *= smoothstep(_size,
+                                        _size+vec2(0.001),
+                                        vec2(1.0)-_st);
+                        return uv.x*uv.y;
+                    }
+                    float cross(in vec2 _st, float _size){
+                        return  box(_st, vec2(_size*0.5,_size*0.125)) +
+                                box(_st, vec2(_size*0.125,_size*0.5));
+                    }
+                    float cross(in vec2 _st, vec2 _size){
+                        return  box(_st, vec2(_size.x*0.5,_size.y*0.125)) +
+                                box(_st, vec2(_size.y*0.125,_size.x*0.5));
+                    }
+    roads:
+        base: lines
+        mix: matrix
+        animated: true
+        shaders:
+            blocks:
+                color: |
+                    vec3 pos = worldPosition().xyz*0.01;
+                    vec2 uv = v_texcoord.xy;
+                    float pct = grid(v_texcoord,10.,0.1)*0.5;
+                    uv *= 18.;
+                    uv = fract(uv);
+                    // uv += sin(u_time*0.2);
+                    float smoothEdges = 0.01;
+                    vec2 size = vec2(0.6);
+                    size = vec2(0.5)-size*0.2;
+                    vec2 aa = vec2(smoothEdges*0.5);
+                    vec2 uv2 = smoothstep(size,size+aa,uv);
+                    uv2 *= smoothstep(size,size+aa,vec2(1.0)-uv);
+                    color.rgb = vec3(uv2.x*uv2.y);
+    buildings:
+        base: polygons
+        mix: matrix
+        blend: add
+        animated: true
+        shaders:
+            blocks:
+                color: |
+                    vec3 pos = worldPosition().xyz*0.01;
+                    vec2 uv = v_texcoord.xy;
+                    float pct = grid(v_texcoord,10.,0.1)*0.5;
+                    uv *= 20.;
+                    uv = fract(uv);
+                    // uv += sin(u_time*0.2);
+                    float smoothEdges = 0.01;
+                    vec2 size = vec2(0.9);
+                    size = vec2(0.5)-size*0.1;
+                    vec2 aa = vec2(smoothEdges*0.5);
+                    vec2 uv2 = smoothstep(size,size+aa,uv);
+                    uv2 *= smoothstep(size,size+aa,vec2(1.0)-uv);
+                    color.rgb = vec3(uv2.x*uv2.y);
+    AstoriaShader:
+        base: points
+        mix: matrix
+        animated: true
+        shaders:
+            blocks:
+                color: |
+                    vec3 pos = worldPosition().xyz*0.01;
+                    color.rgb = vec3(abs(sin(u_time*0.3)),0.0,pos.y);
+    crownHeights_L_Shader:
+        base: points
+        mix: matrix
+        animated: true
+        shaders:
+            blocks:
+                color: |
+                    vec3 pos = worldPosition().xyz*0.01;
+                    color.rgb = vec3(abs(sin(u_time*0.3)),0.0,pos.y);
+    crownHeights_TB_Shader:
+        base: points
+        mix: matrix
+        animated: true
+        shaders:
+            blocks:
+                color: |
+                    vec3 pos = worldPosition().xyz*0.01;
+                    color.rgb = vec3(abs(sin(u_time*0.3)),0.0,pos.y);
+    fortGreenShader:
+        base: points
+        mix: matrix
+        animated: true
+        shaders:
+            blocks:
+                color: |
+                    vec3 pos = worldPosition().xyz*0.01;
+                    color.rgb = vec3(abs(sin(u_time*0.3)),0.0,pos.y);
+    color-tools:
+        shaders:
+            blocks:
+                global: |
+                    // Get the intensity of a color
+                    // ================================
+                    float getIntensity (vec3 c) {
+                        return (c.r+c.g+c.b)/3.0;
+                    }
+                    float getIntensity (vec4 c) {
+                        return getIntensity(c.rgb);
+                    }
+                    //
+                    // Get the Brightness of a color
+                    // ================================
+                    float getBrightness (vec3 c) {
+                        return 0.212655 * c.r + 0.715158 * c.g + 0.072187 * c.b;
+                    }
+                    float getBrightness (vec4 c) {
+                        return getBrightness(c.rgb);
+                    }
+    generative-random:
+        shaders:
+            blocks:
+                global: |
+                    // 1D Random for 1 and 2 dimentions
+                    // ================================
+                    float random (float x) {
+                        return fract(sin(x)*1e4);
+                    }
+                    float random (vec2 xy) {
+                        return fract(sin(dot(xy.xy, vec2(12.9898,78.233)))* 43758.5453123);
+                    }
+                    //
+                    // 2D Random for 2 dimentions
+                    // ================================
+                    vec2 random2 (vec2 xy) {
+                        return fract(sin(vec2(dot(xy,vec2(127.1,311.7)),dot(xy,vec2(269.5,183.3))))*43758.5453);
+                    }
+                    //
+                    // 3D Random for 2 dimentions
+                    // ================================
+                    vec3 random3 (vec2 xy) { 
+                        return fract(sin(vec3( dot(xy,vec2(127.1,311.7)), dot(xy,vec2(269.5,183.3)), dot(xy,vec2(419.2,371.9)) ))*43758.5453); 
+                    }
+    # gen-noise:
+    #     shaders:
+    #         blocks:
+    #             global: |
+    #                 float bacNoise(vec2 st) {
+    #                     vec2 i = floor(st);
+    #                     vec2 f = fract(st);
+    #                     vec2 u = f*f*(3.0-2.0*f);
+    #                     return mix( mix( dot( random2(i + vec2(0.0,0.0) ), f - vec2(0.0,0.0) ), 
+    #                                      dot( random2(i + vec2(1.0,0.0) ), f - vec2(1.0,0.0) ), u.x),
+    #                                 mix( dot( random2(i + vec2(0.0,1.0) ), f - vec2(0.0,1.0) ), 
+    #                                      dot( random2(i + vec2(1.0,1.0) ), f - vec2(1.0,1.0) ), u.x), u.y);
+    #                 }
+    filter-tv:
+        shaders: 
+            blocks: 
+                filter: |
+                    vec2 tv_st = gl_FragCoord.xy/u_resolution.xy;
+                    tv_st -= .5;
+                    color *= abs(cos((gl_FragCoord.y*21.1+u_time*5.)));
+                    color *= 1.0-dot(tv_st,tv_st);                      
+    border-common:
+        base: lines
+        blend: add
+        mix: [filter-tv]
+        texcoords: true
+        animated: true
+        shaders: 
+            uniforms:
+                u_offset: 1
+                u_offsetColor: [1,1,1]
+            blocks: 
+                width: |
+                    vec2 pos = (u_modelView * position).xy;
+                    vec2 pos_offset = pos.xy*u_offset;
+                    vec2 diff = pos.xy-pos_offset;
+                    float offset = length(diff)*u_meters_per_pixel;
+                    width *= 2.0;//offset;
+                position: |
+                    position.xy += diff;
+                color: |
+                    color.rgb *= u_offsetColor;
+                    vec2 st = gl_FragCoord.xy/u_resolution.xy;
+                    st -= .5;
+                    color *= 1.0-pow(dot(st,st)*.5,.8);
+                    color *= smoothstep(0.,1.,sin(v_texcoord.x*3.1415));         
+    border-red:
+        mix: border-common
+        shaders: 
+            uniforms:
+                u_offset: 1.005
+                u_offsetColor: [1,.5,.5]
+    border-green:
+        mix: border-common
+        shaders:
+            uniforms:
+                u_offsetColor: [.5,1.,.5]
+    border-blue:
+        mix: border-common
+        shaders: 
+            uniforms:
+                u_offset: .995
+                u_offsetColor: [.5,.5,1.]
+    interpolation-aastep:
+        shaders:
+            extensions: OES_standard_derivatives
+            blocks:
+                global: |
+                    // AntiAliased Step function
+                    //=============================
+                    float aastep(float threshold, float value) {
+                        #ifdef TANGRAM_FRAGMENT_SHADER
+                            #ifdef TANGRAM_EXTENSION_OES_standard_derivatives
+                                float afwidth = length(vec2(dFdx(value), dFdy(value))) * 0.70710678118654757;
+                                return smoothstep(threshold-afwidth, threshold+afwidth, value);
+                            #else
+                                return step(threshold, value);
+                            #endif  
+                        #else
+                            return step(threshold, value);
+                        #endif
+                    }
+    shapes-polygons:
+        mix: interpolation-aastep
+        shaders:
+            defines:
+                PI: 3.14159265358979323846
+                TWO_PI: 6.283185307
+            blocks:
+                global: |
+                    // get distance field of a polygon in the center
+                    // where N is the number of sides of it
+                    // ================================
+                    float shapeDF (vec2 st, int N) {
+                        st = st *2.-1.;
+                        float a = atan(st.x,st.y)+PI;
+                        float r = TWO_PI/float(N);
+                        return cos(floor(.5+a/r)*r-a)*length(st);
+                    }
+                    
+                    // draw a polygon in the center
+                    // where N is the number of sides of it
+                    // ================================
+                    float shape (vec2 st, int N, float size) {
+                        return 1.-aastep(size,shapeDF(st,N));
+                    }
+                    
+                    // draw the border of a polygon in the center
+                    // where N is the number of sides of it
+                    // ================================
+                    float shapeBorder (vec2 st, int N, float size, float width) {
+                        return shape(st,N,size)-shape(st,N,size-width);
+                    }
+    icons:
+        base: points
+        texcoords: true
+        mix: [tilt, shapes-polygons, color-conversion, color-tools, filter-tv, generative-random]
+        shaders: 
+            blocks:
+                global: |
+                    float rect (vec2 st, vec2 size){
+                        size = .25-size*.125;
+                        vec2 uv = step(size,st*(1.0-st));
+                        return (uv.x*uv.y);
+                    }
+                    
+                    float cross (vec2 st, float size, float width) {
+                        return  clamp(  rect(st, vec2(size*0.5,width*0.125)) +
+                                        rect(st, vec2(width*0.125,size*0.5)),0.,1.);
+                    }
+                color: |
+                    vec2 st = gl_FragCoord.xy/u_resolution.xy;
+                    
+                    st -= .5;
+                    vec2 dir = normalize(st);
+                    float rad = dot(st,st)*.5;
+                    
+                    vec2 tex_uv = v_texcoord.xy;
+                    vec3 color_offsets = vec3(.5,0.,1.)*rad;
+                    
+                    float bri = getBrightness(color);
+                    float intensity = getIntensity(color);
+                    float rnd = random(bri);
+                    float rnd2 = random(intensity);
+                    
+                    if (rnd < .33333) {
+                        color.rgb = vec3(0.586,0.992,0.833);
+                    } else if (rnd < .66666) {
+                        color.rgb = vec3(0.882,0.218,0.355);
+                    } else {
+                        color.rgb = vec3(0.520,0.914,0.976);
+                    }
+                    
+                    float size = .2+rnd2*.4;
+                    
+                    if (rnd < .1) {
+                        color.r *= cross(tex_uv+dir*color_offsets.r, size*3., size*.5);
+                        color.g *= cross(tex_uv+dir*color_offsets.g, size*3., size*.5);
+                        color.b *= cross(tex_uv+dir*color_offsets.b, size*3., size*.5);
+                    } else {
+                        int sides = int(3.+mod(rnd*10.,5.));
+                        if (sides == 3){
+                            // Scale and translate triangle
+                            size *= .7;
+                            tex_uv += vec2(0.,.2);
+                        } else if (sides == 6) {
+                            // Rotate hexagon
+                            tex_uv = tex_uv.yx; 
+                        } else if (sides == 7) {
+                            // Make circle
+                            sides = 360; 
+                        }
+                        color.r *= shapeBorder(tex_uv+dir*color_offsets.r, sides, size,.2);
+                        color.g *= shapeBorder(tex_uv+dir*color_offsets.g, sides, size,.2);
+                        color.b *= shapeBorder(tex_uv+dir*color_offsets.b, sides, size,.2);
+                    }
+                    
+                    color.a = max(color.r,max(color.g,color.b))*(1.0-rad);                
+
+layers:
+    astoriaLayer:
+        data: { source: astoria_data }
+        draw:
+            AstoriaShader:
+                order: 10
+                size: |
+                    function() { return feature.percentage/10; }
+            tilt_points:
+                order: 10
+                # size: |   
+                #     function() { return feature.percentage/100.0; }
+    crownHeights_L_Layer:
+        data: { source: crownHeights_L_data }
+        draw:
+            crownHeights_L_Shader:
+                order: 10
+                size: |
+                    function() { return feature.percentage/10; }
+            tilt_points:
+                order: 10
+                # size: |   
+                #     function() { return feature.percentage/100.0; }
+    crownHeights_TB_Layer:
+        data: { source: crownHeights_TB_data }
+        draw:
+            crownHeights_TB_Shader:
+                order: 10
+                size: |
+                    function() { return feature.percentage/10; }
+            tilt_points:
+                order: 10
+                # size: |   
+                #     function() { return feature.percentage/100.0; }
+    fortGreen_Layer:
+        data: { source: fortgreen_data }
+        draw:
+            fortGreenShader:
+                order: 10
+                size: |
+                    function() { return feature.percentage/10; }
+            tilt_points:
+                order: 10
+                # size: |   
+                #     function() { return feature.percentage/100.0; }
+    landuse:
+        data: { source: osm }
+        draw:
+            # tiledCross:
+            #     order: 1
+            #     color: [0.0,0.0,0.0]
+            polygons:
+                style: flat
+                order: 0
+                color: '#000000'
+
+    water:
+        data: { source: osm }
+        draw:
+            grid:
+                order: 3
+                color: [0.0,0.0,0.0]
+            outline:
+                order: 2
+                style: polygons
+                color: [0.0,0.0,0.0]
+                width: 1px
+                tile_edges: false
+            polygons:
+                order: 2
+                color: [0.004, 0.012, 0.020]
+    roads:
+        data: { source: osm }
+        filter: { not: { kind: [rail, ferry] } }
+        draw:
+            roads:
+                order: 4
+                color: [0, 0, 0]
+                width: 8
+        oneway:
+            filter: { oneway: yes }
+            draw: { roads: { color: red } }
+        highway:
+            filter:
+                kind: highway
+            draw:
+                roads:
+                    order: 5
+                    width: 12
+                outline:
+                    style: lin
+                    order: 4
+                    color: [0, 0, 0]
+                    width: 13
+        tunnel:
+            filter:
+                is_tunnel: yes
+            draw:
+                roads:
+                    color: tan
+            rail:
+                filter:
+                    kind: rail
+                visible: false
+        minor_road:
+            filter:
+                kind: minor_road
+            draw:
+                roads:
+                    width: 5
+        path:
+            filter:
+                kind: path
+            draw:
+                roads:
+                    width: 3
+        rail:
+            filter:
+                kind: rail
+                is_tunnel: no
+            draw:
+                roads:
+                    width: 3
+    buildings:
+        data: { source: osm }
+        draw:
+            buildings:
+                order: 7
+                color: [0, 0, 0]
+        3d-buildings:
+            filter: { $zoom: { min: 13 } }
+            draw:
+                buildings:
+                    extrude: true
+                buildingsLines:
+                    order: 8
+                    color: [0.643,0.851,0.690]
+                    width: [[12, .1px], [14, 0.5px], [15, 1.5px], [17, 1.5px], [18, 2px]]
+                    extrude: true
+    places:
+        data: { source: osm }
+        filter: { name: true }
+        draw:
+            icons:
+                color: Style.color.pseudoRandomColor()
+                size: [[13, 20px], [15, 40px]]
+                interactive: true
+            New_tilt:
+                order: 10

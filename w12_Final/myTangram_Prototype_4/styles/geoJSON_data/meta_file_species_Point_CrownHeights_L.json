@@ -1,0 +1,6549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86931584152907,
+          40.70077249698988
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.048329999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Nocardioides_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99381361279234,
+          40.701627133155746
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8650907226031,
+          40.63884466860972
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9682884156176,
+          40.62881862723278
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9600455002687,
+          40.659798212715145
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93391799390193,
+          40.644222848938
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93518876915451,
+          40.6735789603957
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93850722593207,
+          40.65344275463697
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91713983674218,
+          40.695829545822484
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99207533598583,
+          40.68415144050884
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92607039138527,
+          40.654063220607505
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.0927399999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99407124989841,
+          40.6759408736885
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.73792999999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94768264032929,
+          40.64179788203551
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.8544900000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Hymenobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92972445739787,
+          40.696432211856006
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.8544900000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Hymenobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94637429840405,
+          40.64488497030576
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.8544900000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Hymenobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93523207666982,
+          40.63113814384219
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.092490000000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Chryseobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96151375001017,
+          40.688437307314764
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.6020500000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Riemerella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92628843801548,
+          40.68429425369518
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.6020500000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Riemerella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94561165242874,
+          40.70131679386516
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.6020500000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Riemerella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91203939362947,
+          40.68113513830544
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.6020500000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Riemerella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87640794010488,
+          40.67003590699349
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.6020500000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Riemerella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9356245549155,
+          40.66828254749507
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.7421800000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89439261058276,
+          40.63396851051651
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.7421800000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99544104810057,
+          40.674053595184205
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.7421800000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99210452187252,
+          40.70294976217887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.7421800000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98638120569237,
+          40.69128510421654
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.7421800000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93902811183005,
+          40.63443606269696
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.7421800000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99064552713483,
+          40.66438600231669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.7421800000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92938387697133,
+          40.64137033272282
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.7421800000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9971372171228,
+          40.69738943776702
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.01762,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Deinococcus_aquatilis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90545883299755,
+          40.650760109411166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.5929599999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Deinococcus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01266912154837,
+          40.671364464087034
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.5929599999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Deinococcus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99757948439597,
+          40.693284460789066
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.5929599999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Deinococcus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92908424149127,
+          40.646147402147086
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.5929599999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Deinococcus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97264792235536,
+          40.67273927141689
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.5929599999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Deinococcus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87297734069745,
+          40.701920821719376
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.5929599999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Deinococcus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90501985997824,
+          40.69236579777186
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.4057100000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87647324443088,
+          40.69210053651042
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.4057100000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87506113814251,
+          40.692161365398974
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.4057100000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89563600835059,
+          40.69861350209829
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.4057100000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93078550317911,
+          40.68855743953381
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.4057100000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96297319270771,
+          40.678237537398
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.4057100000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90619114045042,
+          40.676370997726444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.4057100000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92095866203924,
+          40.68714602075338
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.4057100000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90321379515119,
+          40.66312071512806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.4057100000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92055985340208,
+          40.69190887256723
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.038789999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Carnobacterium_maltaromaticum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95381802823816,
+          40.64431134464547
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.3105200000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterococcus_casseliflavus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96613061356676,
+          40.680353890740534
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.3105200000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterococcus_casseliflavus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96499819942535,
+          40.69516879128069
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.76701,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Lactococcus_lactis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89675794470327,
+          40.669254028169185
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.76701,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Lactococcus_lactis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89731281896883,
+          40.637942084063646
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.76701,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Lactococcus_lactis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87631546807314,
+          40.663096833807714
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.76701,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Lactococcus_lactis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0150517823194,
+          40.70222443101773
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.76701,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Lactococcus_lactis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98680206898732,
+          40.6526383683771
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.21536999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Streptococcus_mitis_oralis_pneumoniae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9214407974352,
+          40.66360259190226
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9981215482137,
+          40.69794125649279
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93399461718924,
+          40.661072177408336
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94394888373964,
+          40.69016150837354
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9030582751271,
+          40.65068411411502
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0081789716749,
+          40.64532372764874
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87409575894996,
+          40.6539449406322
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93626948919115,
+          40.702451769347995
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00474628265279,
+          40.699893992664734
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9537494719371,
+          40.63779954366521
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89473317751266,
+          40.639683145467956
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88108045963409,
+          40.670989290113745
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97387087797618,
+          40.66146906505895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.7812,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92213716562527,
+          40.631578318321964
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.2231200000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97283880091945,
+          40.63859939394294
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.2231200000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90347458630822,
+          40.684675592213495
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.2231200000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91103715436734,
+          40.6601673611387
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.2231200000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9131212030667,
+          40.63127158784813
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.78618999999999994,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Caulobacter_vibrioides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96364561474164,
+          40.68998609526585
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.4635199999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9586541926398,
+          40.65866264409408
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.4635199999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01086660455486,
+          40.65749825902362
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.4635199999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89931601706068,
+          40.69666588529474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.70518000000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Mesorhizobium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97493587418761,
+          40.65135355999891
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.98624000000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Roseomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96474439300958,
+          40.63672345749364
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.41880000000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingobium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90803644020723,
+          40.658768712833876
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97927974089444,
+          40.697231154195435
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0038231793755,
+          40.63224297538298
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8679280822706,
+          40.692114161758006
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97483969527445,
+          40.685482713037985
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966210458838,
+          40.628952809085334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88157547291978,
+          40.63901225504827
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00183994759307,
+          40.69290747542857
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88202791734231,
+          40.664163733496906
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00047086822025,
+          40.69053803354419
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99254760199801,
+          40.64932796990567
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87095314200393,
+          40.64726915680576
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96538705559713,
+          40.691958769408636
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01342962700133,
+          40.68106650063421
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96471943320252,
+          40.68805242201141
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96388325914425,
+          40.69165615008624
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92421382423105,
+          40.66114228107559
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99244793038525,
+          40.69042313793041
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88132371152435,
+          40.669474208267026
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01052038988156,
+          40.64266247369511
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99234213027972,
+          40.67534381523683
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99382767567482,
+          40.65175534607748
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98235924762707,
+          40.66144952535941
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97619966960065,
+          40.667043418402216
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01495913126577,
+          40.65364218171866
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00365349137645,
+          40.63896352787223
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91250353873374,
+          40.64825876414748
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92451746751135,
+          40.670807774538034
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89073971199758,
+          40.68168727088286
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8697588718797,
+          40.69700517729474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93200447049495,
+          40.65692972397801
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86867814336559,
+          40.6861926554299
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97672642680243,
+          40.691899796658944
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89636843116097,
+          40.65037393888725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90794583580607,
+          40.68162882177057
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90357436925049,
+          40.682954808518026
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01759109137619,
+          40.687467111446225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87383096527843,
+          40.655937466979914
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99756622875101,
+          40.636548930553424
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86807139947614,
+          40.63959974346331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86682835325618,
+          40.63379538954119
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88268509945622,
+          40.691957099101764
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8711621999109,
+          40.67458787173586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96520725230977,
+          40.69813099695603
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97327515872436,
+          40.7007876402559
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97801255177657,
+          40.666529836891
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98094914725894,
+          40.635221492645826
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94162431732133,
+          40.68911814417538
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92887802602718,
+          40.66676650020181
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91022666260415,
+          40.65416603754785
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86948260717385,
+          40.651348630227865
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95599396952136,
+          40.69723554066022
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96802419865784,
+          40.631134478411106
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88353584361958,
+          40.65310027747757
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95138393667726,
+          40.66779270499688
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91805375389252,
+          40.64411915997012
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98542996291432,
+          40.66762115558327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91579864689517,
+          40.70008812783407
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96607570279419,
+          40.63663553323992
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 58.331809999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88467422547222,
+          40.68796432469387
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.61686000000000007,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Sphingopyxis_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00012552785196,
+          40.68202823536746
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.41928000000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Bordetella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99486943309527,
+          40.64888526197798
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92023099466373,
+          40.65440852627763
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94905142300193,
+          40.66687958889267
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9697148718115,
+          40.64920551757213
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87280772818865,
+          40.6303800475542
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87720921263688,
+          40.6344980687745
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89870247717725,
+          40.67500837750359
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8851953810656,
+          40.687886749711055
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97361074267897,
+          40.668539153432086
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01347537152428,
+          40.63743141645434
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97084027760086,
+          40.66424664611428
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93466748657599,
+          40.64132262731348
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.674020000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90667704415955,
+          40.63885058602964
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.6070900000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Alicycliphilus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97702326509075,
+          40.660238530344095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.6070900000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Alicycliphilus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92686000077666,
+          40.67173995570984
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.6070900000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Alicycliphilus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90300952944197,
+          40.65070792129368
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.72131999999999996,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Comamonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96255419894803,
+          40.671804408987065
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.26749,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Limnohabitans_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9841374046795,
+          40.655303421634585
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.26749,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Limnohabitans_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96885022813065,
+          40.685872074209705
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.3722299999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Polaromonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00319555429486,
+          40.70139883523983
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.3722299999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Polaromonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92066904768633,
+          40.66844143658397
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.70784,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Variovorax_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0083188957332,
+          40.70191921378552
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.70784,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Variovorax_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93333627902028,
+          40.65372439907206
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.70784,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Variovorax_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93516320514617,
+          40.63408580191285
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.1949299999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92135629380708,
+          40.70389490245695
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.1949299999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97095989353804,
+          40.6664517266547
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.1949299999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8844665533009,
+          40.698278313896346
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.1949299999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92165140555964,
+          40.690608205952444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99704545705326,
+          40.67340773690096
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88318093225686,
+          40.647298310457906
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8838729346772,
+          40.6660575958228
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92954596810937,
+          40.64914015002954
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97634763635082,
+          40.65741313478638
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91249593406575,
+          40.682297338275
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91914140088116,
+          40.64046012961778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88503083719375,
+          40.66671352968208
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99566212100487,
+          40.65447381869013
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98907132901495,
+          40.65521297638287
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95678384850382,
+          40.65254010309916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.952299999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87256511678152,
+          40.66810730076615
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.089470000000000008,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Methylophilus_methylotrophus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96740194411,
+          40.636429985277225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.037089999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Methylophilus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89661659689943,
+          40.65016726110035
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.11663,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_asburiae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99795039181167,
+          40.671516981467136
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98044937149372,
+          40.636544799059536
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90210587452037,
+          40.670961821263454
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00090164537023,
+          40.65426878977643
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91156261967365,
+          40.64361963356648
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92830600502947,
+          40.68381922770037
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87581684154121,
+          40.670626714151375
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92744706242394,
+          40.64507481695734
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98460962442898,
+          40.6688407242541
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98928453781289,
+          40.64920778768256
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97755997225062,
+          40.6729448083707
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92724987396963,
+          40.65261185443297
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88207964351801,
+          40.66636965810936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92459652132754,
+          40.63182527582419
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91581881585894,
+          40.68445841649491
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89338335982231,
+          40.69866103454657
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88931325649214,
+          40.64127734790297
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93238303756544,
+          40.663612837699006
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9326797353073,
+          40.67696109650148
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9293767299961,
+          40.69323339477536
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90752617153278,
+          40.635652686658936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88680495218054,
+          40.69272532765041
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87289106095419,
+          40.65841199015486
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9299301803841,
+          40.661574244659484
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91292707534748,
+          40.6431508827866
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00375514299598,
+          40.646287813215146
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8950102459643,
+          40.679905776215705
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98228401602479,
+          40.69236595989936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99079447858021,
+          40.654212016196084
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01911469723244,
+          40.65031966654092
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9233588131899,
+          40.687652688395175
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93281410490617,
+          40.63577159153885
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0139951884548,
+          40.695589097734725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 32.297290000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99253471315475,
+          40.63412828068594
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9696763200205,
+          40.65943127165735
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92617826253387,
+          40.682436427138185
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90357633321746,
+          40.63719256335606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00058965704662,
+          40.63148511893916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92515437469429,
+          40.696198559474055
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00202100943403,
+          40.66980590493037
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98347353287623,
+          40.650778812344484
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97035719712902,
+          40.639556913202526
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99829118435085,
+          40.68401227168807
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01866092022885,
+          40.629809165061424
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00369642712607,
+          40.66990820953631
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92310788442498,
+          40.695219535437396
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91320672117395,
+          40.695720655254476
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92678707179871,
+          40.63200658402952
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97970263647065,
+          40.67482262808992
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93552258377846,
+          40.66782337333834
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98174357320853,
+          40.69980125793668
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973365201081,
+          40.69704667793275
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0168474643878,
+          40.63264905336053
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01261403400123,
+          40.6732284230229
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90673180677719,
+          40.658263470778614
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86764292025843,
+          40.67471355007813
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9388186159917,
+          40.688275097049065
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87061694790054,
+          40.66926092129483
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91811165421822,
+          40.65202839058051
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90086718982995,
+          40.629554831055735
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95425138384375,
+          40.64758305616061
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96194824842026,
+          40.67806298916636
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94440057657728,
+          40.6890085901394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91106093073385,
+          40.70137188273247
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92923043450439,
+          40.7034584916095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92078098394647,
+          40.68920041316678
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87896506230547,
+          40.66425883226766
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92191541361547,
+          40.64823336028552
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97734812086414,
+          40.668658306187076
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89267070240207,
+          40.66803422620117
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9547864373189,
+          40.67348375116086
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86641858735669,
+          40.69394066401116
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8704890199848,
+          40.68689717720429
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98072296372041,
+          40.669634842215
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93283820209008,
+          40.6644612526159
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99587877786196,
+          40.64094427339045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00843549555293,
+          40.65759068129159
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 43.525190000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9241534394168,
+          40.632630614864766
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00732608995654,
+          40.6870318207935
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00145561553282,
+          40.65642962345906
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89992435149685,
+          40.69600756713952
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99977181669496,
+          40.63431077207292
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98930998252571,
+          40.67755809498539
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01106322286608,
+          40.692755072864486
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9031332627901,
+          40.638622864302775
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92147343441765,
+          40.631899347241664
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89619866602627,
+          40.677523092297086
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9066719975108,
+          40.64003016470918
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9746329217183,
+          40.64322939653224
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 11.926060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95376453645225,
+          40.6640386444373
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.1318900000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9707078341436,
+          40.66720830350869
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.1318900000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92959355560674,
+          40.70427557999437
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.1318900000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87445573863242,
+          40.697891856076176
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.30703000000000003,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Klebsiella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99624075540376,
+          40.65238138281324
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.3145,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97023661577418,
+          40.67005489751281
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.060199999999999997,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Raoultella_ornithinolytica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01243580676358,
+          40.65459467862867
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.87949999999999995,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_johnsonii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965561834226,
+          40.63525813864111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.0175999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98637516372406,
+          40.67100339473754
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.0175999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89149563124825,
+          40.6594779161166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.0175999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97838180248168,
+          40.67081897606891
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.0175999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89876256751648,
+          40.67447224997132
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.0175999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88626067187367,
+          40.67761939572701
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.0175999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00038123330266,
+          40.62956023951968
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.0175999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92515087518815,
+          40.634321710052355
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.0175999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9554565430463,
+          40.69221974100942
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.0175999999999998,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9718677451907,
+          40.659441490129474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.7155800000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92699370080375,
+          40.687198550167835
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.7155800000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91837894621558,
+          40.6513325704193
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.7155800000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98161031798709,
+          40.688746259231095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.7155800000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9481925186279,
+          40.68000755333121
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.0859399999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_radioresistens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88834737420032,
+          40.63671518004112
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.0859399999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_radioresistens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94951224447614,
+          40.68014864944893
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0031610292551,
+          40.63931790756927
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91751743214625,
+          40.6637902961818
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90252393655696,
+          40.64062264104322
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8714320506495,
+          40.64086708208251
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99602325439965,
+          40.6858043920145
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01547832362245,
+          40.66227298937629
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94476563994552,
+          40.67532100322993
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497904876495,
+          40.70002229770322
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96717972594026,
+          40.67128583736679
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00351263752334,
+          40.64543662302334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01649240888037,
+          40.682673712241915
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93563703569173,
+          40.666992341001034
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00796464577752,
+          40.6902483600092
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95319839671468,
+          40.69281645624768
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9844455106167,
+          40.636977063386226
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87035898842232,
+          40.65446197848058
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9415519175756,
+          40.65170591756037
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94682681178217,
+          40.65966992448242
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91821907371103,
+          40.63499443895701
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89907821154893,
+          40.6878900140152
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90220872903824,
+          40.63831091180244
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01109440687405,
+          40.6453054956193
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9941156421643,
+          40.67414386233443
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91122235106114,
+          40.63655446309811
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89088157192162,
+          40.64918002790209
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95515263257049,
+          40.67307956609571
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87984872246912,
+          40.68299056687774
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8908936082138,
+          40.633502684483865
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9741935803657,
+          40.64005294436005
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00106258643788,
+          40.67067586898108
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87881684319176,
+          40.642183022594615
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91490467557202,
+          40.630440691658855
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96254264075965,
+          40.65793506656431
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89340288150325,
+          40.679825971858534
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87559447281305,
+          40.654619914494596
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01497266250333,
+          40.63376989043019
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89675171438496,
+          40.65351958508948
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 37.314509999999999,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95279988847854,
+          40.64979286873732
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.85032999999999992,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enhydrobacter_aerosaccus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00748264942621,
+          40.667615452500186
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.070960000000000009,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_fragi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87983546026341,
+          40.6392723599174
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.9337300000000006,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87177778488325,
+          40.664231663271515
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.9337300000000006,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92158037196565,
+          40.690845588054756
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.9337300000000006,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87361556040376,
+          40.63184983224454
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.9337300000000006,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96182534026276,
+          40.66852376211622
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.9337300000000006,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96247147104145,
+          40.6353329981655
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.9337300000000006,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95368402172248,
+          40.67194790223505
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.9337300000000006,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00216731598887,
+          40.650630248775876
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99071324448397,
+          40.67142269495487
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98249309759488,
+          40.65554088930929
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90255702062439,
+          40.634320581445074
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88779462809867,
+          40.687962301775755
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9842594732139,
+          40.65243742456948
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95942796871525,
+          40.631036273549185
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00626210496725,
+          40.68660008111184
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01301473089693,
+          40.65498257803896
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90135164534797,
+          40.66057073779127
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89500222472986,
+          40.67496767720369
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99499994336072,
+          40.67731804874063
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97706831674712,
+          40.67801712393781
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8898148816335,
+          40.683232115920596
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87009064547564,
+          40.66232660320962
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00504398274444,
+          40.6471234470303
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 15.315560000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95150172852331,
+          40.62900705451338
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.094210000000000002,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Fusarium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01112802180184,
+          40.65249108124643
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.96697000000000011,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Nosema_ceranae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90814344403374,
+          40.66972532235875
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91145287630647,
+          40.64221247634304
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91673222654555,
+          40.69575552832588
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97458999142276,
+          40.64773698416695
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87795197042973,
+          40.700959599352174
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87706033446204,
+          40.6369696581725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00532718643144,
+          40.67886379287355
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88428844160245,
+          40.64254344651627
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96740860146892,
+          40.70295406211934
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99162117500015,
+          40.663453870054376
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8702934134315,
+          40.681149748948854
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92717291375136,
+          40.69246214415154
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99830691769081,
+          40.65387071237785
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93136872541284,
+          40.66325282521761
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87092499013163,
+          40.65202915060286
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97581026395581,
+          40.6688214888844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9268865237443,
+          40.64356634743465
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94019942567503,
+          40.6906571411329
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86525194171308,
+          40.633341723990114
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8861935404775,
+          40.671656055170764
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90776710102857,
+          40.65558746151724
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99621669264756,
+          40.6998696769609
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8815716215764,
+          40.65427210938372
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9438797327961,
+          40.68852795479083
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95197712839374,
+          40.63384890644844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89612281097443,
+          40.64805322657221
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94666861422147,
+          40.695574015848706
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93896661593898,
+          40.662479322929805
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98542474656715,
+          40.673232792442626
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92493258604046,
+          40.7042273059964
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0164721628364,
+          40.682709636618384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01708542873617,
+          40.688467211716016
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99051297802367,
+          40.66870319107277
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96688615293422,
+          40.67613825193352
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90341102922974,
+          40.671932953215446
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 34.906890000000004,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89562586293941,
+          40.67710671181404
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01691487261533,
+          40.6918129075446
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92460402558712,
+          40.678493909340204
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95701621934622,
+          40.64721717146651
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87833134229714,
+          40.650567830529916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96507117313823,
+          40.68226840150833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99768122421128,
+          40.661423375714435
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89051485097849,
+          40.69278220491567
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98420508482236,
+          40.702625580933116
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.013176818199,
+          40.68643935268597
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89199995414174,
+          40.68896236329106
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98254319902992,
+          40.65945194260424
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99728602114577,
+          40.63731375024683
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97217940054712,
+          40.69310562630416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94331018595278,
+          40.6709999166182
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91687220115162,
+          40.6497665518613
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91917370388086,
+          40.658441588157466
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 16.494060000000001,
+        "location": "CROWN HEIGHTS - LANGSTROTH",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    }
+  ]
+}

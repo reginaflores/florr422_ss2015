@@ -1,0 +1,6581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93562708109694,
+          40.69288293066123
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.38038,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Granulicella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88441853012867,
+          40.63991948459053
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.97117000000000009,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Agromyces_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98706389960306,
+          40.6872101293459
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87542462429681,
+          40.70166280552954
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9903455251115,
+          40.69320865080407
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97648117861844,
+          40.69164581085994
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96318819401093,
+          40.642732848259016
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92535615309055,
+          40.64369944304842
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94065011840924,
+          40.65752613833309
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87841580336065,
+          40.62957614045255
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9408150782201,
+          40.64634808264891
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94278982953223,
+          40.63919142997832
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9956552297765,
+          40.69025996653131
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.13123,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96770831017311,
+          40.70388093510445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.3431200000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Leifsonia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.912010417278,
+          40.652095195890254
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.3431200000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Leifsonia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00208182593073,
+          40.63829179701186
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.30535000000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Rothia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95567820066742,
+          40.63226735815214
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.069179999999999992,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Nocardioides_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9507045366467,
+          40.661738285896035
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.2159199999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95133653209044,
+          40.645517967235556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.2159199999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9482544470903,
+          40.7035274962794
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.2159199999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89967245258056,
+          40.68243362939834
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.2159199999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98844393484222,
+          40.65929257763984
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.2159199999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91406074826348,
+          40.6852546986247
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.2159199999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99286706431258,
+          40.65904255442237
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.2159199999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93680047954568,
+          40.693095305317115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.2159199999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96660892900717,
+          40.69170874290943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.5237000000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00658877839398,
+          40.63867555030355
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.5237000000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92098818620327,
+          40.664811131063175
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.3533,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Prevotella_disiens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91023388440853,
+          40.69187695421305
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.66098000000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Hymenobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91471692863573,
+          40.6585188525992
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88755167139202,
+          40.70008191808513
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99767111504292,
+          40.69626248598295
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9844201792355,
+          40.6316432454706
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89140885659009,
+          40.653498791194046
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93324932872414,
+          40.637245725554685
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87060833733436,
+          40.662949931397975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94414868755791,
+          40.70124403246105
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91371499476546,
+          40.67825673020573
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95526968394502,
+          40.659187666269595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95613030067614,
+          40.66455772533529
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87937475423685,
+          40.66742457375801
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87654436338323,
+          40.629264132814924
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.41746,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88818837061399,
+          40.6861931791845
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.2676,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00508498439406,
+          40.6330176067722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.49426000000000003,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Deinococcus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91509743583597,
+          40.68515654799955
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.23880999999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Bacillus_megaterium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97467008193306,
+          40.63748685312759
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0699100000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00248564909342,
+          40.63116014505323
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0699100000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94550600436347,
+          40.66000776468279
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0699100000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97394105063753,
+          40.64082480285209
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0699100000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97685338216921,
+          40.64025372390324
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0699100000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01163312693576,
+          40.63741426790167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0699100000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87655296186115,
+          40.65086440398184
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.41503999999999996,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Lactococcus_lactis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97897455367841,
+          40.67009724000081
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.1816499999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Streptococcus_mitis_oralis_pneumoniae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91703757879658,
+          40.694004171010434
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.1816499999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Streptococcus_mitis_oralis_pneumoniae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96554060612515,
+          40.68521398038852
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.1816499999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Streptococcus_mitis_oralis_pneumoniae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95648446078486,
+          40.63292226350901
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.049980000000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Finegoldia_magna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87483486612952,
+          40.685887742933836
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.41988000000000003,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Asticcacaulis_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97543686921553,
+          40.66332725357045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.70633999999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Brevundimonas_diminuta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97256742783149,
+          40.64891509834606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.2261700000000002,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92393170124465,
+          40.67795358605176
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.2261700000000002,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94549188829055,
+          40.6432270281129
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.2261700000000002,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9512417114761,
+          40.63659771250915
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.1896299999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00490895935728,
+          40.67212659058733
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.1896299999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86480067996732,
+          40.68477738638669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.1896299999999997,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92626452863223,
+          40.66242874898449
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.27243000000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Caulobacter_vibrioides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91886513349942,
+          40.68283151948015
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.35039,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9430253809675,
+          40.67807389043408
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.35039,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97179984939201,
+          40.665754525009376
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.14117000000000002,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Mesorhizobium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0107075298816,
+          40.65410037100726
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95537482138346,
+          40.647776385770456
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87278722272382,
+          40.65171751009378
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.007415921004,
+          40.65237474747796
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9407325524073,
+          40.700134414834466
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88322541339646,
+          40.681099697692886
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0125091134307,
+          40.652061513567695
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91603946579123,
+          40.69059681053342
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89049888993401,
+          40.62876393311683
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93114055025556,
+          40.67515463658821
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87738992309295,
+          40.66113544214444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91951937495838,
+          40.68604647012297
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98908880069979,
+          40.68422215259663
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9633265670334,
+          40.63735136722926
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90752671653902,
+          40.669194397768806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87613687936404,
+          40.648819021833845
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01014067260213,
+          40.68925624728472
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93631708928633,
+          40.65368655955874
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99600224701304,
+          40.65196920613079
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92445894035363,
+          40.69192270867949
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99117041078232,
+          40.6810133785853
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93571502996772,
+          40.66642380748044
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87944687579272,
+          40.64400261195339
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90562711246614,
+          40.650259487772544
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90912154941572,
+          40.68979906058532
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94733800138721,
+          40.66633943165083
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88029050389653,
+          40.66962116180555
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95482326437477,
+          40.69922224694002
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98779995166763,
+          40.68844657230886
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94694954711514,
+          40.70091680560815
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9972218967612,
+          40.69355229352113
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94632313489004,
+          40.6864081701693
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86581434239244,
+          40.66223093573205
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00177510741196,
+          40.63755484866792
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01344174379378,
+          40.63855012414918
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91102018170852,
+          40.68721771027077
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87240610926636,
+          40.64849038237418
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88019512065608,
+          40.700624821784125
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01598721105135,
+          40.67709166258897
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99710029183726,
+          40.6639825131933
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99969092653652,
+          40.67399683568549
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99669234532803,
+          40.64335494146583
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95930215169197,
+          40.676420466383064
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93790622900276,
+          40.640595245044494
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90294686871331,
+          40.66699456046078
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92323797998472,
+          40.64796403200882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86770833775029,
+          40.662004131791534
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0128438459128,
+          40.68693657916129
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00342904372522,
+          40.661990774586535
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95286143897047,
+          40.67918968232567
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93673198603443,
+          40.686787480640746
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89234355575088,
+          40.667040152957604
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93065088105176,
+          40.702409128404824
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01772832362298,
+          40.70288409012055
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99256857221216,
+          40.65011034124699
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98663503411086,
+          40.642348551215555
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98534813218299,
+          40.64295558373515
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9155260412371,
+          40.671218382903284
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86568204212264,
+          40.63468394413624
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00487188858996,
+          40.63866360235545
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88825654688671,
+          40.64468716408081
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96284226375114,
+          40.66884830921229
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91128909816034,
+          40.634173647280434
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91641991317384,
+          40.667597914540615
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00821120840429,
+          40.70357168568271
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 64.502799999999993,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90955116926801,
+          40.644161513014
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.13731,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Burkholderia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89731412355506,
+          40.63602553339474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.13731,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Burkholderia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9298808101007,
+          40.66188051775558
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.89232000000000011,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Thiomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91333169106383,
+          40.69875987775481
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.38674000000000003,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90531730522913,
+          40.67832381973471
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.78613,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Comamonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8758417681181,
+          40.667122590420185
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.76222999999999996,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Limnohabitans_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00709353720347,
+          40.703654806161396
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.27454,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Polaromonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87366940779617,
+          40.66003174066748
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.27454,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Polaromonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9842286366021,
+          40.64638151460378
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.27454,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Polaromonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9057034860487,
+          40.63824730857214
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.77706000000000008,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Variovorax_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86607804177648,
+          40.6600235467153
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.2300000000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87218547102033,
+          40.63183295938945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.2300000000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99382334913811,
+          40.6838556719785
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.2300000000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93219932827424,
+          40.672757747488426
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.2300000000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0101561976576,
+          40.64088391909837
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.2300000000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98264762661502,
+          40.65141766348722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.2300000000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96502414554247,
+          40.66655747119532
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.89319999999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Janthinobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95709049871276,
+          40.6463904262707
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.8771599999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94890750123544,
+          40.63166399820815
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.8771599999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97008963909848,
+          40.65363486782208
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.8771599999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93472798742543,
+          40.65052627633452
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.8771599999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97641638465683,
+          40.678666891989735
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.8771599999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91118616814093,
+          40.64061411741306
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97266107159062,
+          40.658991097950135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87859781139197,
+          40.637034997634444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91603239615429,
+          40.63672427836428
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96477782640765,
+          40.694715261544516
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87732304337075,
+          40.68058243183761
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94497454774604,
+          40.6388535390217
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96586055912515,
+          40.64624340340589
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.944876999568,
+          40.700047929680956
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8704681856208,
+          40.67767577637545
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92150397111949,
+          40.64772874657684
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9110190291951,
+          40.678058933309416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92802116469171,
+          40.64525724883151
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91224838225932,
+          40.6822466347082
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9235896558949,
+          40.66657794604831
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91187356640383,
+          40.63253241174064
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91453365006394,
+          40.63698469751436
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96560884790128,
+          40.6359865616148
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01178101746176,
+          40.630630542514595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 18.316459999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89523929620691,
+          40.632046353195776
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9476194907766,
+          40.64435300209698
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96580631959033,
+          40.703101379981916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90350637878569,
+          40.702966865322935
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98089188301924,
+          40.6729385744587
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00596091848259,
+          40.688448476349116
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97138569675944,
+          40.70073427918865
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91490095577646,
+          40.6740290329962
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0005356554435,
+          40.67333545646287
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86650176357765,
+          40.667572404053004
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98416853944414,
+          40.64559202969193
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98614569073855,
+          40.65604898549399
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9235360064713,
+          40.684510004030585
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88419843845735,
+          40.69936603284179
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8721424375662,
+          40.69633506662205
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01525209729355,
+          40.68638634497838
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87643177766283,
+          40.68309344195536
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9291566623656,
+          40.67981645454154
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92887124862561,
+          40.69735289282813
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0057135673002,
+          40.65230969325113
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01499794767994,
+          40.66670092042013
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87746346401374,
+          40.636028419204024
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92507842877275,
+          40.64929397678978
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00354521000696,
+          40.66692032158962
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99356737116176,
+          40.70157832333359
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86831946207766,
+          40.67318997265644
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9314002888229,
+          40.64521256030061
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9793097877873,
+          40.680865886626314
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97659358972182,
+          40.65614602431623
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86796247887843,
+          40.66179848009197
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0165739387154,
+          40.63483209571692
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98537949214706,
+          40.66746085727989
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93059544618055,
+          40.65783072708442
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88760253278316,
+          40.68433482607876
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.948691199562,
+          40.68070976953357
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94105140687746,
+          40.672761539517914
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99592073278723,
+          40.68319844596176
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95813635238301,
+          40.634677213575706
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00367478389622,
+          40.65024353656547
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90617142470535,
+          40.67318765062986
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92805399893844,
+          40.64839210154617
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.018370108174,
+          40.63738686958817
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86701219502605,
+          40.66551502277082
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00883313940456,
+          40.634257288921894
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98898838543717,
+          40.68031682391584
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9354525421642,
+          40.682215856273835
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92816984473633,
+          40.64630323475471
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97459570334343,
+          40.673168223256354
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8848714001029,
+          40.640063968968185
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97782526400425,
+          40.64127038690835
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8856261686824,
+          40.66237144064023
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87579974192276,
+          40.66657201133928
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92348115997157,
+          40.690214786820036
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99491464366494,
+          40.696027906020674
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93663139982931,
+          40.70242739042529
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94174912775301,
+          40.63762372149049
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98194842195592,
+          40.66401448774217
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01000856191702,
+          40.644944097962004
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96364239792688,
+          40.66052448720704
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99428851618158,
+          40.66489237474965
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94010533792607,
+          40.629131295773234
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00408944851443,
+          40.696319395447716
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97505099862438,
+          40.641641253126465
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9627587302616,
+          40.681388408742436
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98521578389176,
+          40.667527652184795
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88254202934023,
+          40.641185341312685
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90211543268352,
+          40.693090358620644
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93798505513708,
+          40.63476548802455
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90116751605403,
+          40.67122895687591
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0065021837413,
+          40.66561581696753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88705372742945,
+          40.63811318463567
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88369595261295,
+          40.66235517182191
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93714860828867,
+          40.69333812771718
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88576922403358,
+          40.68596322354184
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 73.685749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94195246773333,
+          40.6718639161785
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.0389499999999998,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00169212931549,
+          40.688124430832026
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.0389499999999998,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99465023053271,
+          40.67022080029102
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.0389499999999998,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9012128363523,
+          40.68363357060887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.0389499999999998,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91585104461807,
+          40.68653202199317
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.0389499999999998,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01382985396047,
+          40.69589271572037
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.0389499999999998,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95100822929521,
+          40.632911444808165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 6.0389499999999998,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96161344438413,
+          40.648323358783706
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00061885145269,
+          40.66601514995166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99995133749863,
+          40.66656233536374
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93662033481398,
+          40.66841044975862
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92505002586694,
+          40.68826927617416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89072892230638,
+          40.64534765878892
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.864777694147,
+          40.660211583586346
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93677417662265,
+          40.6718401535326
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93788928051754,
+          40.65048316354409
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99107612142801,
+          40.69426045874955
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95517653747761,
+          40.68054759848354
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96083878336842,
+          40.66519205032471
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96933700567745,
+          40.68295180695082
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99943857589803,
+          40.681843310271894
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86650383596225,
+          40.64056676937104
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 14.469749999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87901526927567,
+          40.630662736782476
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88739680739666,
+          40.69986802330535
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88820959126781,
+          40.680403423117646
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99010465144494,
+          40.67986923688676
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97461762579123,
+          40.629645414646916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93904196983111,
+          40.70206683861294
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96809064571843,
+          40.70052056452939
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95622065106477,
+          40.67142871271595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93297085801753,
+          40.699610466585995
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88460676048065,
+          40.64964412000098
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98470678075911,
+          40.6818211759796
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00313674043169,
+          40.68717413677197
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87018809400243,
+          40.67019672773489
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 12.960610000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94680314867097,
+          40.6856735113237
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0876400000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96473643357945,
+          40.67059075895848
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0876400000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91581297105344,
+          40.67886909307515
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0876400000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87568612540363,
+          40.69532759791812
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0876400000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91312857206341,
+          40.68907153516861
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0876400000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01474769555179,
+          40.69910476035323
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.0876400000000004,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96787710905768,
+          40.69835973912562
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.0578100000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_pittii_calcoaceticus_nosocomialis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92405957241147,
+          40.631689111697476
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.0578100000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_pittii_calcoaceticus_nosocomialis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97794447312181,
+          40.66466707487471
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94260612993405,
+          40.665555509310266
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91997495619188,
+          40.64077028250667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98270811360912,
+          40.67510395282585
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90918949373817,
+          40.68377339349302
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9963381693875,
+          40.66675475425605
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8684658667064,
+          40.67426987607795
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91355656148627,
+          40.65971737012008
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8969553613316,
+          40.65120381562471
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97747188003173,
+          40.68420410103505
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8749729318694,
+          40.64650896513662
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00010418715759,
+          40.68315740416469
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99170220809745,
+          40.634420809131
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0068185172787,
+          40.70395663119521
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00189605429459,
+          40.703832560767154
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00814234893974,
+          40.69121243769742
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88328758782146,
+          40.658089348661676
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9941706460646,
+          40.69238701955865
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93494338089035,
+          40.67370727658662
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92797848583673,
+          40.63396497908877
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94310834185673,
+          40.652297222506576
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86658837416799,
+          40.646565526342854
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89478382688945,
+          40.63833185339922
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00116736510206,
+          40.63550781543649
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93684283732168,
+          40.64846338861575
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96873912064625,
+          40.691714669534804
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98378782171426,
+          40.67673595679019
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90677231114512,
+          40.688484962975245
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89777214396354,
+          40.64612833092498
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9078082003981,
+          40.67466590803024
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96747592742344,
+          40.651232237821226
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98430906883844,
+          40.64083754387655
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90957580538581,
+          40.62927478811362
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99617235405688,
+          40.63967168469515
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87224593614943,
+          40.67289667584063
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88004449295286,
+          40.683177935941366
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94635565329523,
+          40.65984664607846
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9577345854616,
+          40.70008869902748
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95507506181085,
+          40.63409604339135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9453991524411,
+          40.64874566441109
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91053930138766,
+          40.65765835991948
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87484988000425,
+          40.64728067089046
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00951969277814,
+          40.678035031990795
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97394283195395,
+          40.673801208195805
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98380599209302,
+          40.656887404336146
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97529921213535,
+          40.63465923631257
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8674876021925,
+          40.65846913470383
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97895283613633,
+          40.65736181070721
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99508226913039,
+          40.65099546841262
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96442150679246,
+          40.63222269426261
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00720417024648,
+          40.692020472973496
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 50.362690000000001,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95137114588735,
+          40.63549423087441
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.96176000000000006,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_fragi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95320812509156,
+          40.69599859401146
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.44893,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_mandelii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91706161589265,
+          40.67514130935041
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87478464404856,
+          40.63325139428291
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90215874959023,
+          40.63753955325166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9656291760946,
+          40.69402745182036
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9388463546257,
+          40.687209306370264
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98175142069177,
+          40.64806279157739
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97331406705207,
+          40.69592730487877
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89093249780603,
+          40.685951386967396
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88486041920899,
+          40.667595009665966
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92883581118076,
+          40.690871103846625
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.2078299999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00122466167987,
+          40.67462534239281
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91942013584593,
+          40.68991231051743
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91581056636237,
+          40.68360630155331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89528127805146,
+          40.63562477299633
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9445717491973,
+          40.696392599666794
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99479330225157,
+          40.64134583406164
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98260815035088,
+          40.66125753507269
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01179859023412,
+          40.69063512381657
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93359917665325,
+          40.63629880147959
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90893714755519,
+          40.6917627564269
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9450644631214,
+          40.69655470772554
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89642802843062,
+          40.68220508537414
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97189420834849,
+          40.66227179039346
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98170348399677,
+          40.668702873081706
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86613864469146,
+          40.684227369998375
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87560677481223,
+          40.67236182030545
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90352910967566,
+          40.66234562874035
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93377528369675,
+          40.63003920623902
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0001699204225,
+          40.63566513390245
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94636325090346,
+          40.672787492010826
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97864439901119,
+          40.634214440519294
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97617203235339,
+          40.64381908117693
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88259423410419,
+          40.69468546980687
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9163857372139,
+          40.657113844123295
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96271815105727,
+          40.69202856287397
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87382263946533,
+          40.639796725652275
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91789734591514,
+          40.65943929526766
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88081404293662,
+          40.67655128026292
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92105857032895,
+          40.63694073999517
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9869969020033,
+          40.64294031792023
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94433104052057,
+          40.67079536773
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96254106883626,
+          40.66682747505712
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97621300316568,
+          40.66088577416431
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97778784034325,
+          40.66044593817447
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91728698971487,
+          40.63120516688244
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92538865831541,
+          40.64628177683813
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9230734556717,
+          40.70401996222826
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97129961545842,
+          40.659998219224704
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92240259818956,
+          40.664525671694065
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89770987228742,
+          40.644120355733065
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87566268771327,
+          40.69231076458661
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00139065615583,
+          40.64682455825129
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9277508130248,
+          40.641829917171314
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89539624851967,
+          40.665284856880916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91437357883554,
+          40.66740491365742
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97647745384843,
+          40.67968560580603
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92717638210777,
+          40.68001730792675
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 46.252559999999995,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90870274410578,
+          40.63625706256225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.24475,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Stenotrophomonas_maltophilia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95885231430772,
+          40.634685826094945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.0047399999999991,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Zygosaccharomyces_rouxii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9470993219953,
+          40.66372733687044
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.0047399999999991,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Zygosaccharomyces_rouxii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97468224543583,
+          40.64715131350699
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.0047399999999991,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Zygosaccharomyces_rouxii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9273806890769,
+          40.663601422356514
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.0047399999999991,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Zygosaccharomyces_rouxii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979774925893,
+          40.65836704812398
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.0047399999999991,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Zygosaccharomyces_rouxii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8967782353023,
+          40.68811291460048
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.0047399999999991,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Zygosaccharomyces_rouxii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87323940585382,
+          40.66108805246777
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.0047399999999991,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Zygosaccharomyces_rouxii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87554121626617,
+          40.67946153655639
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 7.0047399999999991,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Zygosaccharomyces_rouxii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94377245875921,
+          40.635876894476304
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.11832999999999999,
+        "location": "CROWN HEIGHTS -TOP BAR",
+        "kind": "bacteria",
+        "species": "Human_adenovirus_D"
+      }
+    }
+  ]
+}

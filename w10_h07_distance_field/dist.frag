@@ -59,7 +59,7 @@ void main() {
 
     //horitontal lines
     //note that when x-coord is 0 you get horizontal lines
-    vec2 pos = vec2(st*vec2(0., 30.));
+    vec2 pos = vec2(st*vec2(0., 50.));
 
 
  ////////////////////////////////////////////////////////////
